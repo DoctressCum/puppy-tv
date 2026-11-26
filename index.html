@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>puppy tv</title>
+<style>html,body{margin:0;height:100%;background:#000}</style>
+</head>
+<body>
+<div id="sltv" style="color:#fff;font:24px sans-serif;padding:20px">loading puppy tv... &#9825;</div>
+<script>
+  // "Pages mode": the TV opens  https://YOU.github.io/puppy-tv/?b=<TV's LSL URL>&p=<worker URL>
+  // b = the TV script's own web address (it changes when the region restarts; the TV re-sends it)
+  // p = optional Cloudflare Worker that adds the CORS header SL can't add
+  (function () {
+    var q = new URLSearchParams(location.search);
+    window.PUPPYTV_CONFIG = {
+      stateBase: q.get("b") || "",
+      proxy: q.get("p") || "",
+      debug: q.get("debug") === "1"
+    };
+    if (!window.PUPPYTV_CONFIG.stateBase) {
+      document.getElementById("sltv").textContent = "puppy tv: no TV address in the link (?b=...)";
+    }
+  })();
+</script>
+<script src="player.js"></script>
+</body>
+</html>
