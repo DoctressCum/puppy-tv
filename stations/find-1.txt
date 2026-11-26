@@ -1,0 +1,87 @@
+Kyiv 20ft Radio|City Radio|0|1
+NYC 8 Ball Radio|City Radio|0|1
+NYC East Village Radio|City Radio|0|1
+Brooklyn Newtown Radio|City Radio|0|1
+Bangkok Community|City Radio|0|1
+Berlin Cashmere|City Radio|0|1
+Berlin THF Radio|City Radio|0|1
+Berlin Refuge Worldwide|City Radio|0|1
+Glasgow Clyde Built|City Radio|0|1
+Glasgow Buena Vida|City Radio|0|2
+Dublin Digital Radio|City Radio|0|2
+Sydney FBi Radio|City Radio|0|2
+Adelaide Three D Radio|City Radio|0|2
+Milan Radio Raheem|City Radio|0|2
+Turin Banda Larga|City Radio|0|2
+Palermo Radio Dopo|City Radio|0|2
+Bologna NEU Radio|City Radio|0|2
+Philadelphia Gr. Circles|City Radio|0|2
+Tallinn IDA|City Radio|0|3
+Guadalajara Internet PR|City Radio|0|3
+LA KCHUNG|City Radio|0|3
+London Kindred|City Radio|0|3
+London Netil Radio|City Radio|0|3
+London Subtle Radio|City Radio|0|3
+London Worldwide FM|City Radio|0|3
+London Soho Radio|City Radio|0|3
+London Do!! You!!!|City Radio|0|3
+Bristol Noods Radio|City Radio|0|4
+Brussels Kiosk Radio|City Radio|0|4
+Budapest Lahmacun|City Radio|0|4
+Lausanne Loose Antenna|City Radio|0|4
+Lyon LYL Radio|City Radio|0|4
+Paris Radio Sofa|City Radio|0|4
+Paris Station Station|City Radio|0|4
+Montpellier Pinata|City Radio|0|4
+Niort Radio Pinpon|City Radio|0|4
+Madrid Radio Relativa|City Radio|0|5
+Lisbon Radio Quantica|City Radio|0|5
+Munich Radio 80000|City Radio|0|5
+Augsburg stayfm|City Radio|0|5
+Eupen Studio Neau|City Radio|0|5
+Antwerp We Are Various|City Radio|0|5
+Manchester Reform|City Radio|0|5
+Warsaw Radio Kapital|City Radio|0|5
+Vilnius Palanga Street|City Radio|0|5
+Vilnius Radio Vilnius|City Radio|0|6
+Riga Tirkultura|City Radio|0|6
+Stockholm Sauna Radio|City Radio|0|6
+Malmo Retreat Radio|City Radio|0|6
+Athens Parea Radio|City Radio|0|6
+Athens STEGI Radio|City Radio|0|6
+Odesa Rukh Radio|City Radio|0|6
+Tbilisi Mutant Radio|City Radio|0|6
+Tashkent Rytmabad|City Radio|0|6
+Bandung Norrm|City Radio|0|7
+Mexico City Nopal|City Radio|0|7
+Buenos Aires Muito|City Radio|0|7
+Valparaiso Tsonami|City Radio|0|7
+Sao Paulo Veneno|City Radio|0|7
+Accra Oroko Radio|City Radio|0|7
+Montreal n10.as|City Radio|0|7
+Montreal CKUT|City Radio|0|7
+Toronto CIUT|City Radio|0|7
+Portland XRAY.fm|City Radio|0|8
+New Orleans WWOZ|City Radio|0|8
+Berkeley KALX|City Radio|0|8
+Los Angeles KCRW Eclecti|City Radio|0|8
+Los Angeles KXLU|City Radio|0|8
+Claremont KSPC|City Radio|0|8
+San Francisco KUSF|City Radio|0|8
+Austin KUTX|City Radio|0|8
+Milwaukee WMSE|City Radio|0|8
+Madison WSUM|City Radio|0|9
+Charlottesville WTJU|City Radio|0|9
+Chapel Hill WXYC|City Radio|0|9
+Hudson Valley WGXC|City Radio|0|9
+Rochester WRUR WZRD|City Radio|0|9
+London Rinse FM|City Radio|0|9
+Pyongyang Radio FM|City Radio|0|9
+Kobe Ashiya Radio|City Radio|0|9
+~ Milan Fritto FM|City Radio|0|9
+9128 Live|Weird & Experimental|1|1
+Ambient.FM|Weird & Experimental|1|1
+The Kyoto Connection|Weird & Experimental|1|1
+Moon Phase Ambient|Weird & Experimental|1|1
+Radio Isla Negra Slow|Weird & Experimental|1|1
+Radio Isla Negra Up|Weird & Experimental|1|1

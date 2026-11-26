@@ -1,0 +1,98 @@
+Ignore Radio Shoegaze|Rock & Alt|20|2
+Krautrock World|Rock & Alt|20|2
+Nugs Jam Radio|Rock & Alt|20|2
+Radio Woodstock|Rock & Alt|20|2
+The SoCal Sound|Rock & Alt|20|3
+Yacht Rock Miami|Rock & Alt|20|3
+Boogaloo Radio|Rock & Alt|20|3
+Live Jam Radio|Rock & Alt|20|3
+FIP|Indie & Eclectic|21|1
+FIP Nouveautes|Indie & Eclectic|21|1
+FluxFM Indie Disco|Indie & Eclectic|21|1
+KEXP Seattle|Indie & Eclectic|21|1
+NTS 1|Indie & Eclectic|21|1
+NTS 2|Indie & Eclectic|21|1
+WFMU Freeform|Indie & Eclectic|21|1
+SLE Radio One|Indie & Eclectic|21|1
+~ Soma Black Rock FM|Indie & Eclectic|21|1
+~ Soma Covers|Indie & Eclectic|21|2
+~ Soma Digitalis|Indie & Eclectic|21|2
+~ Soma Indie Pop Rocks|Indie & Eclectic|21|2
+100 Greatest Metal|Metal|22|1
+Heavy Metal AAC|Metal|22|1
+Hotmix Hard Rock|Metal|22|1
+Metal Rock Radio|Metal|22|1
+Rock Antenne Heavy Metal|Metal|22|1
+Metal Devastation|Metal|22|1
+Doomnation Radio|Metal|22|1
+Prog Palace Radio|Metal|22|1
+Terra Relicta|Metal|22|1
+TotalRock|Metal|22|2
+Violent Forces Thrash|Metal|22|2
+NTS The Pit|Metal|22|2
+~ Soma Metal Detector|Metal|22|2
+0N Gothic|Punk & Goth|23|1
+12punks.fm|Punk & Goth|23|1
+Punkrockers Radio|Punk & Goth|23|1
+Radio Bob Gothic|Punk & Goth|23|1
+Radio Bob Punk|Punk & Goth|23|1
+Classic Vinyl HD|Jazz|24|1
+FIP Jazz|Jazz|24|1
+France Musique La Jazz|Jazz|24|1
+Jazz Radio FR|Jazz|24|1
+Jazz24|Jazz|24|1
+Radio Swiss Jazz|Jazz|24|1
+Smooth Jazz 24/7|Jazz|24|1
+TSF Jazz|Jazz|24|1
+Walm Cool Jazz|Jazz|24|1
+WWOZ New Orleans|Jazz|24|2
+Concertzender Jazz|Jazz|24|2
+Giants of Jazz|Jazz|24|2
+Head Wax Radio|Jazz|24|2
+KEWU Jazz|Jazz|24|2
+KJazz 88.1|Jazz|24|2
+KSDS Jazz 88.3|Jazz|24|2
+Octave Radio|Jazz|24|2
+Radio Suisse Jazz|Jazz|24|2
+WBGO Jazz|Jazz|24|3
+Jazz Con Class|Jazz|24|3
+KCCK Christmas Jazz|Jazz|24|3
+~ Soma Sonic Universe|Jazz|24|3
+181 True Blues|Blues|25|1
+Hotmix Blues|Blues|25|1
+Mississippi Blues|Blues|25|1
+Radio Relax Jazz Blues|Blues|25|1
+WVPE Blues3|Blues|25|1
+~ Joint Radio Blues Rock|Blues|25|1
+BR Klassik|Classical|26|1
+Classic FM|Classical|26|1
+Classic FM Calm|Classical|26|1
+Classical KING FM|Classical|26|1
+Fr Musique Classique+|Classical|26|1
+France Musique|Classical|26|1
+Klassik Radio|Classical|26|1
+Radio Swiss Classic|Classical|26|1
+Venice Classic|Classical|26|1
+WQXR|Classical|26|2
+Ancient FM|Classical|26|2
+Classical California|Classical|26|2
+CRB Classical 99.5|Classical|26|2
+WBJC Classical|Classical|26|2
+WFMT Chicago|Classical|26|2
+Solo Piano Radio|Classical|26|2
+WMNR Classical|Classical|26|2
+NTS Sheet Music|Classical|26|2
+181 90s Country|Country & Folk|27|1
+181 Kickin Country|Country & Folk|27|1
+99.9 Kiss Country|Country & Folk|27|1
+Americas Country|Country & Folk|27|1
+Bluegrass Country|Country & Folk|27|1
+Hotmix Country Hits|Country & Folk|27|1
+HPR1 Classic Country|Country & Folk|27|1
+Outlaw Country|Country & Folk|27|1
+Smooth Country|Country & Folk|27|1
+Folk Alley|Country & Folk|27|2
+WNCW Roots|Country & Folk|27|2
+~ Soma Boot Liquor|Country & Folk|27|2
+~ Soma Folk Forward|Country & Folk|27|2
+bigFM Dancehall|Reggae|28|1

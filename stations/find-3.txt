@@ -1,0 +1,102 @@
+SMRN 60s and 70s|Vintage & Spooky|6|2
+History Radio|Vintage & Spooky|6|2
+Audiobook Radio|Vintage & Spooky|6|2
+0R Lo-Fi|Lofi|7|1
+Box Lofi|Lofi|7|1
+CLIAMP Lofi|Lofi|7|1
+Epic Jazzhop|Lofi|7|1
+FluxFM Chillhop|Lofi|7|1
+Hotmix Lo-Fi|Lofi|7|1
+Hunter.FM Lo-Fi|Lofi|7|1
+I Love Chillhop|Lofi|7|1
+ISEKOI Chill Zone|Lofi|7|1
+Kalizo Lo-Fi|Lofi|7|2
+laut.fm Lofi|Lofi|7|2
+LITT Live Lofi|Lofi|7|2
+Music Radio Lo-Fi|Lofi|7|2
+NIA Lo-Fi|Lofi|7|2
+NTS Low Key|Lofi|7|2
+RadioTEDU Lo-Fi|Lofi|7|2
+Record Lo-Fi|Lofi|7|2
+Relax Lo-Fi|Lofi|7|2
+REYFM Lofi|Lofi|7|3
+~ Soma Chillits Radio|Lofi|7|3
+0N K-Pop|K-Pop|8|1
+100FM K-Pop|K-Pop|8|1
+City K-Pop|K-Pop|8|1
+Conexion Girl Groups|K-Pop|8|1
+Conexion K-Pop|K-Pop|8|1
+Hit FM K-Pop Hits|K-Pop|8|1
+Hotmix K-Pop|K-Pop|8|1
+I Love K-Pop|K-Pop|8|1
+Juka K-Pop|K-Pop|8|1
+K-Pop 24|K-Pop|8|2
+K-Pop Hits|K-Pop|8|2
+Kpop Radio HU|K-Pop|8|2
+Listen.moe K-Pop|K-Pop|8|2
+Only Hits K-Pop|K-Pop|8|2
+Radio Saranghae|K-Pop|8|2
+RauteMusik K-Pop|K-Pop|8|2
+REYFM K-Pop|K-Pop|8|2
+SBS PopAsia|K-Pop|8|2
+Gotanno FM|J-Pop|9|1
+J-Pop Sakura|J-Pop|9|1
+Japan Hits|J-Pop|9|1
+Japanradio.de|J-Pop|9|1
+Kawaii Music|J-Pop|9|1
+Listen.moe J-Pop|J-Pop|9|1
+Listen.moe J-Pop Ogg|J-Pop|9|1
+Only Hits Japan|J-Pop|9|1
+Sound Up Station|J-Pop|9|1
+Anime FM|Anime & Vocaloid|10|1
+Anime Nexus|Anime & Vocaloid|10|1
+AnimeNfo Radio|Anime & Vocaloid|10|1
+NTS Otaku|Anime & Vocaloid|10|1
+Otaku World|Anime & Vocaloid|10|1
+Phate Radio|Anime & Vocaloid|10|1
+R/a/dio|Anime & Vocaloid|10|1
+Radio Animu|Anime & Vocaloid|10|1
+Radio Onimai|Anime & Vocaloid|10|1
+Stereo Anime|Anime & Vocaloid|10|2
+Vocaloid Radio|Anime & Vocaloid|10|2
+Wave Anime Radio|Anime & Vocaloid|10|2
+Cool 93 Bangkok|Asian Pop|11|1
+HITZ Malaysia|Asian Pop|11|1
+Hum FM|Asian Pop|11|1
+Kiss92 Singapore|Asian Pop|11|1
+Love Radio Manila|Asian Pop|11|1
+Prambors FM|Asian Pop|11|1
+Radio Udaan Bollywood|Asian Pop|11|1
+REDfm Mandarin|Asian Pop|11|1
+Retro Bollywood 90s|Asian Pop|11|1
+181 The Mix|Pop & Variety|12|1
+Antenne Bayern|Pop & Variety|12|1
+Capital UK|Pop & Variety|12|1
+FIP Pop|Pop & Variety|12|1
+Heart UK|Pop & Variety|12|1
+Hit Radio FFH|Pop & Variety|12|1
+Hitradio Oe3|Pop & Variety|12|1
+Hotmix Hits|Pop & Variety|12|1
+NRJ Hits|Pop & Variety|12|1
+Radio 538|Pop & Variety|12|2
+Radio Paradise Main|Pop & Variety|12|2
+Radio Swiss Pop|Pop & Variety|12|2
+RTL 102.5 Best|Pop & Variety|12|2
+Smooth UK|Pop & Variety|12|2
+~ Soma PopTron|Pop & Variety|12|2
+0R Coffee Lounge|Chill & Ambient|13|1
+0R Hotel Lounge|Chill & Ambient|13|1
+0R Piano Jazz Lounge|Chill & Ambient|13|1
+0R Spa Lounge|Chill & Ambient|13|1
+Airport Lounge|Chill & Ambient|13|1
+Antenne Bayern Coffee|Chill & Ambient|13|1
+Epic Ibiza Chillout|Chill & Ambient|13|1
+FluxFM Elec Chillout|Chill & Ambient|13|1
+Ibiza Sonica|Chill & Ambient|13|1
+Radio Paradise Mellow|Chill & Ambient|13|2
+RadiOzora Chill|Chill & Ambient|13|2
+Record Chill-Out|Chill & Ambient|13|2
+Reggae Chill Cafe|Chill & Ambient|13|2
+Smooth Chill|Chill & Ambient|13|2
+TripHop Radio|Chill & Ambient|13|2
+ChillTraxx|Chill & Ambient|13|2

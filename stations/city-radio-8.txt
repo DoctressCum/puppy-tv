@@ -1,0 +1,9 @@
+Portland XRAY.fm|Portland XRAY.fm|https://listen.xray.fm/stream
+New Orleans WWOZ|New Orleans WWOZ|https://www.wwoz.org/listen/hi
+Berkeley KALX|Berkeley KALX|https://stream.kalx.berkeley.edu:8443/kalx-320.aac
+Los Angeles KCRW Eclecti|Los Angeles KCRW Eclecti|https://streams.kcrw.com/e24_mp3
+Los Angeles KXLU|Los Angeles KXLU|https://kxlu.streamguys1.com/kxlu-hi
+Claremont KSPC|Claremont KSPC|https://kspc.radioca.st/stream
+San Francisco KUSF|San Francisco KUSF|https://listen.kusf.org/stream
+Austin KUTX|Austin KUTX|https://streams.kut.org/4428_192.mp3
+Milwaukee WMSE|Milwaukee WMSE|https://wmse.streamguys1.com/wmselivemp3

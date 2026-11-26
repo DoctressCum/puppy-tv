@@ -1,0 +1,9 @@
+Rock Antenne Alternative|Rock Antenne Alternative|https://s1-webradio.rockantenne.de/alternative/stream/mp3
+Rock Antenne Classic|Rock Antenne Classic|https://stream.rockantenne.de/classic-perlen/stream/mp3
+Rock Antenne Punkrock|Rock Antenne Punkrock|https://s1-webradio.rockantenne.de/punkrock/stream/mp3
+The Current|The Current|https://current.stream.publicradio.org/current.mp3
+Birch Street Radio|Birch Street Radio|https://streaming.live365.com/a97155
+Ignore Radio Shoegaze|Ignore Radio Shoegaze|https://sp1.autopo.st/8026/stream
+Krautrock World|Krautrock World|https://krautrockworld.stream.laut.fm/krautrockworld
+Nugs Jam Radio|Nugs Jam Radio|https://radio.nugs.net/nugsnet
+Radio Woodstock|Radio Woodstock|https://stream.revma.ihrhls.com/zc7332

@@ -1,0 +1,9 @@
+Old Time Radio|Old Time Radio|https://kea.cdnstream.com/1893_128
+WALM Old Time Radio|WALM Old Time Radio|https://icecast.walmradio.com:8443/otr
+Pumpkin FM 1940s|Pumpkin FM 1940s|https://cast2.asurahosting.com/proxy/1940sradio/stream
+Vintage Obscura|Vintage Obscura|https://radio.vintageobscura.net/stream
+Mechanical Music Radio|Mechanical Music Radio|https://global.citrus3.com:2020/stream/mechanicalmusicradio
+Psychedelicized|Psychedelicized|https://stream.psychedelicized.com/listen/psychedelicized/radio.mp3
+J-Club Bandstand|J-Club Bandstand|https://cast1.torontocast.com:2060/stream
+Majestic Jukebox|Majestic Jukebox|https://uk3.internet-radio.com/proxy/majesticjukebox/live
+Beatles Radio|Beatles Radio|https://stream.zeno.fm/e4auhdgm6cquv

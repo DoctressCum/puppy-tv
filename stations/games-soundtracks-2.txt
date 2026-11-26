@@ -1,0 +1,9 @@
+Classic FM Gaming|Classic FM Gaming|https://icecast.thisisdax.com/ClassicFM-M-Gaming
+Commodexplorer|Commodexplorer|https://manager8.streamradio.fr:2295/stream
+CVGM|CVGM|https://slacker.cvgm.net/cvgm192
+Ericade Tracker Radio|Ericade Tracker Radio|https://radio.ericade.net/sc/stream/1/
+GTA Radio|GTA Radio|https://stream.laut.fm/gta-classics
+Kaaosradio Chip|Kaaosradio Chip|https://kaaosradio.fi:8001/chip
+No Life Radio|No Life Radio|https://listen.nolife-radio.com/stream
+RPGamers Radio|RPGamers Radio|https://listen.rpgamers.net/rpgn
+Shmup Radio|Shmup Radio|https://stream.shmupradio.com/320

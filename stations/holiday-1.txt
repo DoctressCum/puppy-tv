@@ -1,0 +1,9 @@
+181 Christmas Classics|181 Christmas Classics|https://listen.181fm.com/181-xtraditional_128k.mp3
+181 Christmas Oldies|181 Christmas Oldies|https://listen.181fm.com/181-xoldies_128k.mp3
+181 Christmas R&B|181 Christmas R&B|https://listen.181fm.com/181-xtrue_128k.mp3
+Hotmix Christmas|Hotmix Christmas|https://streaming.hotmixradio.com/hotmix-christmas-en-mp3
+Your Classical Holiday|Your Classical Holiday|https://holiday.stream.publicradio.org/holiday_yc.mp3
+Classical Christmas FM|Classical Christmas FM|https://christmasfm.cdnstream1.com/2550_128.mp3
+Christmas FM Ireland|Christmas FM Ireland|https://christmasfm.cdnstream1.com/2547_128.mp3
+WQXR Holiday|WQXR Holiday|https://stream.wqxr.org/qxr-special.aac
+WALM Christmas Vinyl|WALM Christmas Vinyl|https://icecast.walmradio.com:8443/christmas

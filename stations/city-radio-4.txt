@@ -1,0 +1,9 @@
+Bristol Noods Radio|Bristol Noods Radio|https://noods-radio.radiocult.fm/stream
+Brussels Kiosk Radio|Brussels Kiosk Radio|https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+Budapest Lahmacun|Budapest Lahmacun|https://streaming.lahmacun.hu/radio/8000/radio.mp3
+Lausanne Loose Antenna|Lausanne Loose Antenna|https://stream.looseantenna.fm/radio/8000/default.mp3
+Lyon LYL Radio|Lyon LYL Radio|https://icecast.lyl.live/live
+Paris Radio Sofa|Paris Radio Sofa|https://radio.radio-sofa.com/listen/radio_sofa/radio.mp3
+Paris Station Station|Paris Station Station|https://libretime.stationstation.fr/main
+Montpellier Pinata|Montpellier Pinata|https://listen.radioking.com/radio/96031/stream/134656
+Niort Radio Pinpon|Niort Radio Pinpon|https://listen.radioking.com/radio/142627/stream/182797

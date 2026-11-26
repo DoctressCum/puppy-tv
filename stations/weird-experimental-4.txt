@@ -1,0 +1,9 @@
+TildeRadio|TildeRadio|https://azuracast.tilderadio.org/radio/8000/radio.mp3
+The Dump|The Dump|https://radio.turbo.net.au/stream-hq
+KWSX Radio|KWSX Radio|https://stream.kwsx.online/listen/kwsx/radio-med.mp3
+Payphone Radio|Payphone Radio|https://centova11.instainternet.com/proxy/marktho1?mp=/stream
+DriftConditions|DriftConditions|https://usa14.fastcast4u.com/proxy/wmodes?mp=/1
+Limbik Frequencies|Limbik Frequencies|https://limbikfreq.com/listen/limbik_frequencies/320.mp3
+Aaja Music 1|Aaja Music 1|https://aaja.radiocult.fm/stream
+Aaja Music 2|Aaja Music 2|https://aaja-2.radiocult.fm/stream
+Spinning Seal FM|Spinning Seal FM|https://stream.zeno.fm/9q3ez3k3fchvv

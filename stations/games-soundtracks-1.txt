@@ -1,0 +1,9 @@
+Hotmix Gaming|Hotmix Gaming|https://streaming.hotmixradio.com/hotmix-gaming-en-mp3
+Rainwave All|Rainwave All|https://relay.rainwave.cc/all.mp3
+Rainwave Chill|Rainwave Chill|https://relay.rainwave.cc/chill.mp3
+Rainwave Chiptune|Rainwave Chiptune|https://relay.rainwave.cc/chiptune.mp3
+Rainwave Covers|Rainwave Covers|https://relay.rainwave.cc/covers.mp3
+Rainwave Game|Rainwave Game|https://relay.rainwave.cc/game.mp3
+Rainwave OC ReMix|Rainwave OC ReMix|https://relay.rainwave.cc/ocremix.mp3
+Arcade Radio|Arcade Radio|https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2
+Cinemix Movie Music|Cinemix Movie Music|https://kathy.torontocast.com:1825/stream

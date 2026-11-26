@@ -1,0 +1,9 @@
+0R Coffee Lounge|0R Coffee Lounge|https://0nlineradio.radioho.st/lounge-coffee-bar-lounge
+0R Hotel Lounge|0R Hotel Lounge|https://0nlineradio.radioho.st/lounge-hotel-lounge
+0R Piano Jazz Lounge|0R Piano Jazz Lounge|https://0nlineradio.radioho.st/lounge-piano-jazz-bar
+0R Spa Lounge|0R Spa Lounge|https://0nlineradio.radioho.st/lounge-spa-lounge
+Airport Lounge|Airport Lounge|https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
+Antenne Bayern Coffee|Antenne Bayern Coffee|https://mp3channels.webradio.de/coffee
+Epic Ibiza Chillout|Epic Ibiza Chillout|https://stream.epic-lounge.com/ibiza-chillout-lounge
+FluxFM Elec Chillout|FluxFM Elec Chillout|https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=10
+Ibiza Sonica|Ibiza Sonica|https://ibizasonica.streaming-pro.com:8000/ibizasonica

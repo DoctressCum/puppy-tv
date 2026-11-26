@@ -1,0 +1,6 @@
+Celtic Music Radio|Celtic Music Radio|https://streaming.broadcastradio.com:11135/celtic
+Drevo Russian Folk|Drevo Russian Folk|https://radio2.4m3.ru/listen/drevo/radio.mp3
+~ Soma ThistleRadio|~ Soma ThistleRadio|https://ice2.somafm.com/thistle-128-mp3
+~ Soma Folk Forward|~ Soma Folk Forward|https://ice2.somafm.com/folkfwd-128-mp3
+~ Soma Dark Zone|~ Soma Dark Zone|https://ice2.somafm.com/darkzone-256-mp3
+~ Soma Drone Zone|~ Soma Drone Zone|https://ice2.somafm.com/dronezone-256-mp3

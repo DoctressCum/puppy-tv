@@ -1,0 +1,9 @@
+K-Pop 24|K-Pop 24|https://lux.radio.tvstitch.com/k-pop-sd
+K-Pop Hits|K-Pop Hits|https://kpophits.stream.laut.fm/kpophits
+Kpop Radio HU|Kpop Radio HU|https://s5.radio.co/s078df1838/listen
+Listen.moe K-Pop|Listen.moe K-Pop|https://listen.moe/kpop/fallback
+Only Hits K-Pop|Only Hits K-Pop|https://kpop.onlyhit.us/play
+Radio Saranghae|Radio Saranghae|https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3
+RauteMusik K-Pop|RauteMusik K-Pop|https://streams.rautemusik.fm/k-pop/mp3-192
+REYFM K-Pop|REYFM K-Pop|https://listen.reyfm.de/kpop_320kbps.mp3
+SBS PopAsia|SBS PopAsia|https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web

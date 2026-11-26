@@ -1,0 +1,75 @@
+CodeRadio|Chill & Ambient|13|2
+Nordic Lodge|Chill & Ambient|13|2
+Tracksaudio Chill Lounge|Chill & Ambient|13|3
+~ Soma Beat Blender|Chill & Ambient|13|3
+~ Soma Fluid|Chill & Ambient|13|3
+~ Soma Groove Salad|Chill & Ambient|13|3
+~ Soma GS Classic|Chill & Ambient|13|3
+~ Soma Illinois Street|Chill & Ambient|13|3
+~ Soma Lush|Chill & Ambient|13|3
+~ Soma Mission Control|Chill & Ambient|13|3
+~ Soma n5MD|Chill & Ambient|13|3
+~ Soma Secret Agent|Chill & Ambient|13|4
+0R Music For Sleep|Witchy & Meditation|14|1
+Epic Background|Witchy & Meditation|14|1
+Epic Classical Chill|Witchy & Meditation|14|1
+Epic Nature Sounds|Witchy & Meditation|14|1
+Epic Piano|Witchy & Meditation|14|1
+Epic Sleep Meditation|Witchy & Meditation|14|1
+FluxFM Traumerei|Witchy & Meditation|14|1
+FluxFM Yoga Sounds|Witchy & Meditation|14|1
+Radio Nature|Witchy & Meditation|14|1
+~ Soma Dark Zone|Witchy & Meditation|14|2
+~ Soma Deep Space One|Witchy & Meditation|14|2
+~ Soma Drone Zone|Witchy & Meditation|14|2
+~ Soma Synphaera|Witchy & Meditation|14|2
+Chillsynth FM|Synthwave & Retro|15|1
+Darksynth FM|Synthwave & Retro|15|1
+Datawave FM|Synthwave & Retro|15|1
+Horrorsynth FM|Synthwave & Retro|15|1
+Nightride FM|Synthwave & Retro|15|1
+Nightwave Plaza|Synthwave & Retro|15|1
+Record Synthwave|Synthwave & Retro|15|1
+Spacesynth FM|Synthwave & Retro|15|1
+Yumi Co Future Funk|Synthwave & Retro|15|1
+Synthetic FM|Synthwave & Retro|15|2
+Synthetic FM Italo|Synthwave & Retro|15|2
+Radio ItaloPower|Synthwave & Retro|15|2
+Poolsuite FM|Synthwave & Retro|15|2
+~ Soma Space Station|Synthwave & Retro|15|2
+~ Soma Vaporwaves|Synthwave & Retro|15|2
+Hotmix Gaming|Games & Soundtracks|16|1
+Rainwave All|Games & Soundtracks|16|1
+Rainwave Chill|Games & Soundtracks|16|1
+Rainwave Chiptune|Games & Soundtracks|16|1
+Rainwave Covers|Games & Soundtracks|16|1
+Rainwave Game|Games & Soundtracks|16|1
+Rainwave OC ReMix|Games & Soundtracks|16|1
+Arcade Radio|Games & Soundtracks|16|1
+Cinemix Movie Music|Games & Soundtracks|16|1
+Classic FM Gaming|Games & Soundtracks|16|2
+Commodexplorer|Games & Soundtracks|16|2
+CVGM|Games & Soundtracks|16|2
+Ericade Tracker Radio|Games & Soundtracks|16|2
+GTA Radio|Games & Soundtracks|16|2
+Kaaosradio Chip|Games & Soundtracks|16|2
+No Life Radio|Games & Soundtracks|16|2
+RPGamers Radio|Games & Soundtracks|16|2
+Shmup Radio|Games & Soundtracks|16|2
+Radio Rivendell|Games & Soundtracks|16|3
+181 Energy 93|Electronic & Dance|17|1
+After Hours Melodic|Electronic & Dance|17|1
+Capital Dance|Electronic & Dance|17|1
+FIP Electro|Electronic & Dance|17|1
+FluxFM Techno|Electronic & Dance|17|1
+Frisky Radio|Electronic & Dance|17|1
+HardBase.FM|Electronic & Dance|17|1
+Hotmix Deep House|Electronic & Dance|17|1
+Hotmix Party|Electronic & Dance|17|1
+HouseTime.FM|Electronic & Dance|17|2
+Radio ACID|Electronic & Dance|17|2
+Radio Record Dance|Electronic & Dance|17|2
+Record Club|Electronic & Dance|17|2
+Record Deep|Electronic & Dance|17|2
+Sunshine Live|Electronic & Dance|17|2
+Sunshine Live 2000s|Electronic & Dance|17|2

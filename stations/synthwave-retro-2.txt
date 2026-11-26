@@ -1,0 +1,6 @@
+Synthetic FM|Synthetic FM|https://mediaserv38.live-streams.nl:18040/live
+Synthetic FM Italo|Synthetic FM Italo|https://mediaserv38.live-streams.nl:18030/stream
+Radio ItaloPower|Radio ItaloPower|https://stream.deevaradio.net:10443/italopower
+Poolsuite FM|Poolsuite FM|https://s5.radio.co/sc9cb59935/listen
+~ Soma Space Station|~ Soma Space Station|https://ice2.somafm.com/spacestation-320-mp3
+~ Soma Vaporwaves|~ Soma Vaporwaves|https://ice2.somafm.com/vaporwaves-128-mp3

@@ -1,0 +1,9 @@
+Bossa Jazz Brasil|Bossa Jazz Brasil|https://centova5.transmissaodigital.com:20104/live
+FIP Monde|FIP Monde|https://icecast.radiofrance.fr/fipworld-midfi.mp3
+Hotmix Afro Beats|Hotmix Afro Beats|https://streaming.hotmixradio.com/hotmix-afro-en-mp3
+Monte Carlo Bossa|Monte Carlo Bossa|https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
+Radio Paradise Global|Radio Paradise Global|https://stream.radioparadise.com/global-128
+WDR Cosmo Afrobeats|WDR Cosmo Afrobeats|https://wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3
+Celtic Music Radio|Celtic Music Radio|https://streaming.broadcastradio.com:11135/celtic
+CeolFM Irish Trad|CeolFM Irish Trad|https://listen.ceol.fm/auto
+Swedish Dansband|Swedish Dansband|https://fm09-ice.stream.khz.se/fm09_mp3

@@ -1,0 +1,9 @@
+Madison WSUM|Madison WSUM|https://ice23.securenetsystems.net/WSUMFM
+Charlottesville WTJU|Charlottesville WTJU|https://streams.wtju.net/wtju-live.mp3
+Chapel Hill WXYC|Chapel Hill WXYC|https://audio-mp3.ibiblio.org/wxyc.mp3
+Hudson Valley WGXC|Hudson Valley WGXC|https://audio.wavefarm.org/wgxc.mp3
+Rochester WRUR WZRD|Rochester WRUR WZRD|https://wzrd.streamguys1.com/live
+London Rinse FM|London Rinse FM|https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+Pyongyang Radio FM|Pyongyang Radio FM|https://listen7.myradio24.com/69366
+Kobe Ashiya Radio|Kobe Ashiya Radio|https://s3.radio.co/sc8d895604/listen
+~ Milan Fritto FM|~ Milan Fritto FM|https://frittofm2020.out.airtime.pro/frittofm2020_a

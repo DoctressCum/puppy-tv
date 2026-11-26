@@ -1,0 +1,4 @@
+TotalRock|TotalRock|https://s3.citrus3.com:8056/stream
+Violent Forces Thrash|Violent Forces Thrash|https://www.tuneintoradio1.com/listen/violent_forces_radio/radio.mp3
+NTS The Pit|NTS The Pit|https://stream-mixtape-geo.ntslive.net/mixtape34
+~ Soma Metal Detector|~ Soma Metal Detector|https://ice2.somafm.com/metal-128-mp3

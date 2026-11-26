@@ -1,0 +1,9 @@
+BR Klassik|BR Klassik|https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid
+Classic FM|Classic FM|https://media-ice.musicradio.com/ClassicFMMP3
+Classic FM Calm|Classic FM Calm|https://media-ice.musicradio.com/ClassicFMCalmMP3
+Classical KING FM|Classical KING FM|https://classicalking.streamguys1.com/king-fm-aac-128k
+Fr Musique Classique+|Fr Musique Classique+|https://icecast.radiofrance.fr/francemusiqueclassiqueplus-midfi.mp3
+France Musique|France Musique|https://icecast.radiofrance.fr/francemusique-midfi.mp3
+Klassik Radio|Klassik Radio|https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
+Radio Swiss Classic|Radio Swiss Classic|https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+Venice Classic|Venice Classic|https://uk2.streamingpulse.com/ssl/vcr1

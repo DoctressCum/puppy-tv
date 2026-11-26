@@ -1,0 +1,9 @@
+Radio DY10|Radio DY10|https://flux.radiody10.com/live
+SerrebiRadio|SerrebiRadio|https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
+TEKnival Radio|TEKnival Radio|https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3
+TM Radio Tribal Mixes|TM Radio Tribal Mixes|https://stream.tm-radio.com/tribalmixes
+NTS 4 To The Floor|NTS 4 To The Floor|https://stream-mixtape-geo.ntslive.net/mixtape5
+NTS Labyrinth|NTS Labyrinth|https://stream-mixtape-geo.ntslive.net/mixtape31
+NTS Poolside|NTS Poolside|https://stream-mixtape-geo.ntslive.net/mixtape4
+NTS Sweat|NTS Sweat|https://stream-mixtape-geo.ntslive.net/mixtape24
+Kool FM|Kool FM|https://admin.stream.rinse.fm/proxy/kool/stream

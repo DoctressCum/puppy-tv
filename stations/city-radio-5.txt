@@ -1,0 +1,9 @@
+Madrid Radio Relativa|Madrid Radio Relativa|https://streamer.radio.co/sd6131729c/listen
+Lisbon Radio Quantica|Lisbon Radio Quantica|https://libretime.radioquantica.com/main.mp3
+Munich Radio 80000|Munich Radio 80000|https://radio80k.out.airtime.pro/radio80k_a
+Augsburg stayfm|Augsburg stayfm|https://stayfm.com:8443/archive
+Eupen Studio Neau|Eupen Studio Neau|https://studioneau.out.airtime.pro/studioneau_a
+Antwerp We Are Various|Antwerp We Are Various|https://azuracast.wearevarious.com/listen/we_are_various/live.mp3
+Manchester Reform|Manchester Reform|https://testform.out.airtime.pro/testform_a
+Warsaw Radio Kapital|Warsaw Radio Kapital|https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
+Vilnius Palanga Street|Vilnius Palanga Street|https://stream.palanga.live:8443/palanga128.mp3

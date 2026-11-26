@@ -1,0 +1,75 @@
+FIP Reggae|Reggae|28|1
+Irie FM|Reggae|28|1
+Radio Nova|Reggae|28|1
+Alpha Boys School|Reggae|28|1
+Dr Dicks Dub Shack|Reggae|28|1
+Real Roots Radio|Reggae|28|1
+Badam Radio|Reggae|28|1
+~ Soma Heavyweight Reggae|Reggae|28|1
+Bachata Hits|Latin|29|1
+Flaix FM|Latin|29|1
+Hotmix Latino|Latin|29|1
+Los 40|Latin|29|1
+Radio Cumbia Mix|Latin|29|1
+Radio Panamericana|Latin|29|1
+Tropical 100 Mix|Latin|29|1
+Bossa Jazz Brasil|World|30|1
+FIP Monde|World|30|1
+Hotmix Afro Beats|World|30|1
+Monte Carlo Bossa|World|30|1
+Radio Paradise Global|World|30|1
+WDR Cosmo Afrobeats|World|30|1
+Celtic Music Radio|World|30|1
+CeolFM Irish Trad|World|30|1
+Swedish Dansband|World|30|1
+Svensk Folkmusik|World|30|2
+Zabrij Balkan|World|30|2
+Gladys Palmera|World|30|2
+Mad Radio Bogota|World|30|2
+Jazz Radio Afro|World|30|2
+Radio Sam Sam|World|30|2
+NTS Island Time|World|30|2
+Drevo Russian Folk|World|30|2
+~ Soma Bossa Beyond|World|30|2
+~ Soma Suburbs of Goa|World|30|3
+~ Soma ThistleRadio|World|30|3
+~ Soma Tiki Time|World|30|3
+0N 60s|Oldies|31|1
+181 Beatles|Oldies|31|1
+181 Classic Hits|Oldies|31|1
+181 Lite 80s|Oldies|31|1
+181 The Heart Love Songs|Oldies|31|1
+Gold|Oldies|31|1
+Heart 70s|Oldies|31|1
+Heart 80s|Oldies|31|1
+Heart 90s|Oldies|31|1
+Hotmix 2000|Oldies|31|2
+Hotmix 2010|Oldies|31|2
+Hotmix 80|Oldies|31|2
+Hotmix 90|Oldies|31|2
+All Oldies Channel|Oldies|31|2
+~ Soma Left Coast 70s|Oldies|31|2
+~ Soma The In-Sound|Oldies|31|2
+~ Soma Underground 80s|Oldies|31|2
+181 Christmas Classics|Holiday|32|1
+181 Christmas Oldies|Holiday|32|1
+181 Christmas R&B|Holiday|32|1
+Hotmix Christmas|Holiday|32|1
+Your Classical Holiday|Holiday|32|1
+Classical Christmas FM|Holiday|32|1
+Christmas FM Ireland|Holiday|32|1
+WQXR Holiday|Holiday|32|1
+WALM Christmas Vinyl|Holiday|32|1
+181 Christmas Blender|Holiday|32|2
+laut.fm Christmas Jazz|Holiday|32|2
+laut.fm Xmas|Holiday|32|2
+laut.fm Christmas Rob|Holiday|32|2
+laut.fm Radio Navidad|Holiday|32|2
+laut.fm Christmas 24|Holiday|32|2
+~ Soma Christmas Lounge|Holiday|32|2
+~ Soma Christmas Rocks|Holiday|32|2
+~ Soma Dept Store Xmas|Holiday|32|2
+~ Soma Jolly Ol Soul|Holiday|32|3
+~ Soma Xmas in Frisko|Holiday|32|3
+~ Classical King Xmas|Holiday|32|3
+~ Radio North Pole|Holiday|32|3

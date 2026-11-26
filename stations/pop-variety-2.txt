@@ -1,0 +1,6 @@
+Radio 538|Radio 538|https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+Radio Paradise Main|Radio Paradise Main|https://stream.radioparadise.com/mp3-128
+Radio Swiss Pop|Radio Swiss Pop|https://stream.srg-ssr.ch/m/rsp/mp3_128
+RTL 102.5 Best|RTL 102.5 Best|https://streamingv2.shoutcast.com/rtl-1025-best
+Smooth UK|Smooth UK|https://media-ice.musicradio.com/SmoothUKMP3
+~ Soma PopTron|~ Soma PopTron|https://ice2.somafm.com/poptron-128-mp3

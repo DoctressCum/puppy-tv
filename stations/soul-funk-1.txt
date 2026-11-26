@@ -1,0 +1,9 @@
+181 Soul|181 Soul|https://listen.181fm.com/181-soul_128k.mp3
+Disco Funk 70s 80s|Disco Funk 70s 80s|https://discofunk.streamingmedia.it/usa
+FIP Groove|FIP Groove|https://icecast.radiofrance.fr/fipgroove-midfi.mp3
+Funky Corner Radio|Funky Corner Radio|https://ais-sa2.cdnstream1.com/2447_192.mp3
+Funky Radio|Funky Radio|https://funkyradio.streamingmedia.it/play.mp3
+Hotmix Disco Funk|Hotmix Disco Funk|https://streaming.hotmixradio.com/hotmix-disco-funk-en-mp3
+Italo Disco 80s|Italo Disco 80s|https://cast1.torontocast.com:2130/stream
+JFSR Jazz Funk Soul|JFSR Jazz Funk Soul|https://s2.radio.co/s22ae5a8a6/listen
+Comala Radio|Comala Radio|https://listen.radioking.com/radio/38120/stream/74519

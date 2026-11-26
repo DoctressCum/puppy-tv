@@ -1,0 +1,9 @@
+HouseTime.FM|HouseTime.FM|https://listen.housetime.fm/tunein-aac-hd
+Radio ACID|Radio ACID|https://stream.radioacid.com/stream
+Radio Record Dance|Radio Record Dance|https://radiorecord.hostingradio.ru/rr_main96.aacp
+Record Club|Record Club|https://radiorecord.hostingradio.ru/club96.aacp
+Record Deep|Record Deep|https://radiorecord.hostingradio.ru/deep96.aacp
+Sunshine Live|Sunshine Live|https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+Sunshine Live 2000s|Sunshine Live 2000s|https://stream.sunshine-live.de/2000er/mp3-192/
+TechnoBase.FM|TechnoBase.FM|https://listen.technobase.fm/tunein-aac-hd
+TranceBase.FM|TranceBase.FM|https://listen.trancebase.fm/tunein-aac-hd

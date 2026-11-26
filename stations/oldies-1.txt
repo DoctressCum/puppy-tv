@@ -1,0 +1,9 @@
+0N 60s|0N 60s|https://0n-60s.radionetz.de/0n-60s.mp3
+181 Beatles|181 Beatles|https://listen.181fm.com/181-beatles_128k.mp3
+181 Classic Hits|181 Classic Hits|https://listen.181fm.com/181-greatoldies_128k.mp3
+181 Lite 80s|181 Lite 80s|https://listen.181fm.com/181-lite80s_128k.mp3
+181 The Heart Love Songs|181 The Heart Love Songs|https://listen.181fm.com/181-heart_128k.mp3
+Gold|Gold|https://media-ice.musicradio.com/GoldMP3
+Heart 70s|Heart 70s|https://media-ice.musicradio.com/Heart70sMP3
+Heart 80s|Heart 80s|https://media-ice.musicradio.com/Heart80sMP3
+Heart 90s|Heart 90s|https://media-ice.musicradio.com/Heart90sMP3

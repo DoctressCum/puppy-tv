@@ -1,0 +1,9 @@
+100 Greatest Metal|100 Greatest Metal|https://cast1.torontocast.com:4660/stream
+Heavy Metal AAC|Heavy Metal AAC|https://stream.rockantenne.de/heavy-metal/stream/aacp
+Hotmix Hard Rock|Hotmix Hard Rock|https://streaming.hotmixradio.fr/hotmix-hard_rock-en-mp3
+Metal Rock Radio|Metal Rock Radio|https://kathy.torontocast.com:2800/;
+Rock Antenne Heavy Metal|Rock Antenne Heavy Metal|https://s1-webradio.rockantenne.de/heavy-metal/stream/mp3
+Metal Devastation|Metal Devastation|https://c13.radioboss.fm:18099/stream
+Doomnation Radio|Doomnation Radio|https://s2.voscast.com:11123/stream
+Prog Palace Radio|Prog Palace Radio|https://cheetah.streemlion.com/progpalace64
+Terra Relicta|Terra Relicta|https://a3.asurahosting.com/listen/terra/radio.mp3

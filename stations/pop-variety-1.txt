@@ -1,0 +1,9 @@
+181 The Mix|181 The Mix|https://listen.181fm.com/181-themix_128k.mp3
+Antenne Bayern|Antenne Bayern|https://stream.antenne.de/antenne/stream/mp3
+Capital UK|Capital UK|https://media-ice.musicradio.com/CapitalMP3
+FIP Pop|FIP Pop|https://icecast.radiofrance.fr/fippop-midfi.mp3
+Heart UK|Heart UK|https://media-ice.musicradio.com/HeartUKMP3
+Hit Radio FFH|Hit Radio FFH|https://mp3.ffh.de/radioffh/hqlivestream.mp3
+Hitradio Oe3|Hitradio Oe3|https://orf-live.ors-shoutcast.at/oe3-q2a
+Hotmix Hits|Hotmix Hits|https://streaming.hotmixradio.com/hotmix-hits-en-mp3
+NRJ Hits|NRJ Hits|https://streaming.nrjaudio.fm/ou7xugf3s5gi

@@ -1,0 +1,9 @@
+Chillsynth FM|Chillsynth FM|https://stream.nightride.fm/chillsynth.mp3
+Darksynth FM|Darksynth FM|https://stream.nightride.fm/darksynth.mp3
+Datawave FM|Datawave FM|https://stream.nightride.fm/datawave.mp3
+Horrorsynth FM|Horrorsynth FM|https://stream.nightride.fm/horrorsynth.mp3
+Nightride FM|Nightride FM|https://stream.nightride.fm/nightride.mp3
+Nightwave Plaza|Nightwave Plaza|https://radio.plaza.one/mp3
+Record Synthwave|Record Synthwave|https://radiorecord.hostingradio.ru/synth96.aacp
+Spacesynth FM|Spacesynth FM|https://stream.nightride.fm/spacesynth.mp3
+Yumi Co Future Funk|Yumi Co Future Funk|https://yumicoradio.net:8443/stream

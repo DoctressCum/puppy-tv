@@ -1,0 +1,9 @@
+UK Bass Radio|UK Bass Radio|https://www.ukbassradio.com/stream
+54house.fm|54house.fm|https://54house.fm:9013/stream
+Bondi Radio|Bondi Radio|https://streaming.radio.co/sfd68ddd77/listen
+Deeper Shades House|Deeper Shades House|https://andromeda.housejunkie.ca/radio/8000/radio.mp3
+Foundation FM|Foundation FM|https://streamer.radio.co/s0628bdd53/listen
+Groove Radio|Groove Radio|https://streams.radio.co/s14193ab17/listen
+ISEKOI Radio Main|ISEKOI Radio Main|https://public.isekoi-radio.com/listen/isekoi/radio.mp3
+Old Skool Rave Tapes|Old Skool Rave Tapes|https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/listen
+OpenLab FM|OpenLab FM|https://ice09.fluidstream.net/openlab.aac

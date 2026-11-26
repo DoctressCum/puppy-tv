@@ -1,0 +1,9 @@
+9128 Live|9128 Live|https://streams.radio.co/s0aa1e6f4a/listen
+Ambient.FM|Ambient.FM|https://phoebe.streamerr.co:4140/ambient.mp3
+The Kyoto Connection|The Kyoto Connection|https://server.laradio.online:59009/live
+Moon Phase Ambient|Moon Phase Ambient|https://cp12.serverse.com/proxy/moonphase/stream
+Radio Isla Negra Slow|Radio Isla Negra Slow|https://radioislanegra.org/radio/8000/basic.aac
+Radio Isla Negra Up|Radio Isla Negra Up|https://radioislanegra.org/listen/up/stream
+Subsonic SR One|Subsonic SR One|https://www.subsonicradio.com:8443/requests.mp3
+Subsonic SR Two|Subsonic SR Two|https://www.subsonicradio.com:8443/longbois.mp3
+WEDWay PeopleMover|WEDWay PeopleMover|https://www.subsonicradio.com:8443/wedway.mp3

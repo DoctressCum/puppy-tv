@@ -1,0 +1,85 @@
+TechnoBase.FM|Electronic & Dance|17|2
+TranceBase.FM|Electronic & Dance|17|2
+UK Bass Radio|Electronic & Dance|17|3
+54house.fm|Electronic & Dance|17|3
+Bondi Radio|Electronic & Dance|17|3
+Deeper Shades House|Electronic & Dance|17|3
+Foundation FM|Electronic & Dance|17|3
+Groove Radio|Electronic & Dance|17|3
+ISEKOI Radio Main|Electronic & Dance|17|3
+Old Skool Rave Tapes|Electronic & Dance|17|3
+OpenLab FM|Electronic & Dance|17|3
+Radio DY10|Electronic & Dance|17|4
+SerrebiRadio|Electronic & Dance|17|4
+TEKnival Radio|Electronic & Dance|17|4
+TM Radio Tribal Mixes|Electronic & Dance|17|4
+NTS 4 To The Floor|Electronic & Dance|17|4
+NTS Labyrinth|Electronic & Dance|17|4
+NTS Poolside|Electronic & Dance|17|4
+NTS Sweat|Electronic & Dance|17|4
+Kool FM|Electronic & Dance|17|4
+Eurodance Radio|Electronic & Dance|17|5
+Tracksaudio Chill House|Electronic & Dance|17|5
+~ Dance Wave|Electronic & Dance|17|5
+~ Soma cliqhop idm|Electronic & Dance|17|5
+~ Soma DEF CON Radio|Electronic & Dance|17|5
+~ Soma Dub Step Beyond|Electronic & Dance|17|5
+~ Soma The Trip|Electronic & Dance|17|5
+~ Dub Ninja|Electronic & Dance|17|5
+181 The Beat|Hip-Hop & R&B|18|1
+Capital XTRA|Hip-Hop & R&B|18|1
+DOPE Hip Hop Radio|Hip-Hop & R&B|18|1
+Hip Hop and RnB FM|Hip-Hop & R&B|18|1
+Hotmix Rap Francais|Hip-Hop & R&B|18|1
+Hotmix Rap US|Hip-Hop & R&B|18|1
+Mouv|Hip-Hop & R&B|18|1
+Record Trap|Hip-Hop & R&B|18|1
+Throwback 93.3|Hip-Hop & R&B|18|1
+West Coast G-Funk|Hip-Hop & R&B|18|2
+Radio Nova Hip-Hop|Hip-Hop & R&B|18|2
+Radio Krimi|Hip-Hop & R&B|18|2
+Sensimedia Hip Hop|Hip-Hop & R&B|18|2
+NTS Rap House|Hip-Hop & R&B|18|2
+181 Soul|Soul & Funk|19|1
+Disco Funk 70s 80s|Soul & Funk|19|1
+FIP Groove|Soul & Funk|19|1
+Funky Corner Radio|Soul & Funk|19|1
+Funky Radio|Soul & Funk|19|1
+Hotmix Disco Funk|Soul & Funk|19|1
+Italo Disco 80s|Soul & Funk|19|1
+JFSR Jazz Funk Soul|Soul & Funk|19|1
+Comala Radio|Soul & Funk|19|1
+Disco Factory FM|Soul & Funk|19|2
+The Face Radio|Soul & Funk|19|2
+Funk the Planet|Soul & Funk|19|2
+Funky Ass Tunes|Soul & Funk|19|2
+Groove Cabane|Soul & Funk|19|2
+Intl Rare Groove|Soul & Funk|19|2
+La Patate Douce|Soul & Funk|19|2
+Le Bon Mix|Soul & Funk|19|2
+Mojo Radio|Soul & Funk|19|2
+Ness Radio|Soul & Funk|19|3
+Panacea Radio|Soul & Funk|19|3
+Radio Bar Sardine|Soul & Funk|19|3
+Radio Nula Classic|Soul & Funk|19|3
+Street Sounds Radio|Soul & Funk|19|3
+Radio Santana Breda|Soul & Funk|19|3
+Le Mellotron|Soul & Funk|19|3
+Black Rhino Radio|Soul & Funk|19|3
+NTS Feelings|Soul & Funk|19|3
+~ Soma Seven Inch Soul|Soul & Funk|19|4
+~ Totally Wired Radio|Soul & Funk|19|4
+0R 80s Rock|Rock & Alt|20|1
+181 90s Alternative|Rock & Alt|20|1
+181 The Eagle Classic|Rock & Alt|20|1
+FIP Rock|Rock & Alt|20|1
+Hotmix Pop Rock|Rock & Alt|20|1
+Hotmix Rock|Rock & Alt|20|1
+Radio Paradise Rock|Rock & Alt|20|1
+Radio X|Rock & Alt|20|1
+Rock Antenne|Rock & Alt|20|1
+Rock Antenne Alternative|Rock & Alt|20|2
+Rock Antenne Classic|Rock & Alt|20|2
+Rock Antenne Punkrock|Rock & Alt|20|2
+The Current|Rock & Alt|20|2
+Birch Street Radio|Rock & Alt|20|2

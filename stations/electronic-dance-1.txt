@@ -1,0 +1,9 @@
+181 Energy 93|181 Energy 93|https://listen.181fm.com/181-energy93_128k.mp3
+After Hours Melodic|After Hours Melodic|https://r.bgp.rodeo/listen/after_hours/radio.mp3
+Capital Dance|Capital Dance|https://media-ice.musicradio.com/CapitalDanceMP3
+FIP Electro|FIP Electro|https://icecast.radiofrance.fr/fipelectro-midfi.mp3
+FluxFM Techno|FluxFM Techno|https://fluxmusic.api.radiosphere.io/channels/techno-underground/stream.mp3?quality=1
+Frisky Radio|Frisky Radio|https://stream.frisky.friskyradio.com/frisky_mp3_high
+HardBase.FM|HardBase.FM|https://listen.hardbase.fm/tunein-aac-hd
+Hotmix Deep House|Hotmix Deep House|https://streaming.hotmixradio.com/hotmix-deep-en-mp3
+Hotmix Party|Hotmix Party|https://streaming.hotmixradio.com/hotmix-party-en-mp3

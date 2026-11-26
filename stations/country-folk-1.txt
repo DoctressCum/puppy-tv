@@ -1,0 +1,9 @@
+181 90s Country|181 90s Country|https://listen.181fm.com/181-90scountry_128k.mp3
+181 Kickin Country|181 Kickin Country|https://listen.181fm.com/181-kickincountry_128k.mp3
+99.9 Kiss Country|99.9 Kiss Country|https://stream.revma.ihrhls.com/zc1577
+Americas Country|Americas Country|https://ais-sa2.cdnstream1.com/1976_128.mp3
+Bluegrass Country|Bluegrass Country|https://ice24.securenetsystems.net/WAMU
+Hotmix Country Hits|Hotmix Country Hits|https://streaming.hotmixradio.com/hotmix-country-hits-en-mp3
+HPR1 Classic Country|HPR1 Classic Country|https://us2.maindigitalstream.com/ssl/7713
+Outlaw Country|Outlaw Country|https://r.bgp.rodeo/listen/outlaw/radio.mp3
+Smooth Country|Smooth Country|https://media-ssl.musicradio.com/SmoothCountry
