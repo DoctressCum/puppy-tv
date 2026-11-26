@@ -1,0 +1,44 @@
+181 Energy 93|181 Energy 93|https://listen.181fm.com/181-energy93_128k.mp3
+After Hours Melodic|After Hours Melodic|https://r.bgp.rodeo/listen/after_hours/radio.mp3
+Capital Dance|Capital Dance|https://media-ice.musicradio.com/CapitalDanceMP3
+FIP Electro|FIP Electro|https://icecast.radiofrance.fr/fipelectro-midfi.mp3
+FluxFM Techno|FluxFM Techno|https://fluxmusic.api.radiosphere.io/channels/techno-underground/stream.mp3?quality=1
+Frisky Radio|Frisky Radio|https://stream.frisky.friskyradio.com/frisky_mp3_high
+HardBase.FM|HardBase.FM|https://listen.hardbase.fm/tunein-aac-hd
+Hotmix Deep House|Hotmix Deep House|https://streaming.hotmixradio.com/hotmix-deep-en-mp3
+Hotmix Party|Hotmix Party|https://streaming.hotmixradio.com/hotmix-party-en-mp3
+HouseTime.FM|HouseTime.FM|https://listen.housetime.fm/tunein-aac-hd
+Radio ACID|Radio ACID|https://stream.radioacid.com/stream
+Radio Record Dance|Radio Record Dance|https://radiorecord.hostingradio.ru/rr_main96.aacp
+Record Club|Record Club|https://radiorecord.hostingradio.ru/club96.aacp
+Record Deep|Record Deep|https://radiorecord.hostingradio.ru/deep96.aacp
+Sunshine Live|Sunshine Live|https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+Sunshine Live 2000s|Sunshine Live 2000s|https://stream.sunshine-live.de/2000er/mp3-192/
+TechnoBase.FM|TechnoBase.FM|https://listen.technobase.fm/tunein-aac-hd
+TranceBase.FM|TranceBase.FM|https://listen.trancebase.fm/tunein-aac-hd
+UK Bass Radio|UK Bass Radio|https://www.ukbassradio.com/stream
+54house.fm|54house.fm|https://54house.fm:9013/stream
+Bondi Radio|Bondi Radio|https://streaming.radio.co/sfd68ddd77/listen
+Deeper Shades House|Deeper Shades House|https://andromeda.housejunkie.ca/radio/8000/radio.mp3
+Foundation FM|Foundation FM|https://streamer.radio.co/s0628bdd53/listen
+Groove Radio|Groove Radio|https://streams.radio.co/s14193ab17/listen
+ISEKOI Radio Main|ISEKOI Radio Main|https://public.isekoi-radio.com/listen/isekoi/radio.mp3
+Old Skool Rave Tapes|Old Skool Rave Tapes|https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/listen
+OpenLab FM|OpenLab FM|https://ice09.fluidstream.net/openlab.aac
+Radio DY10|Radio DY10|https://flux.radiody10.com/live
+SerrebiRadio|SerrebiRadio|https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
+TEKnival Radio|TEKnival Radio|https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3
+TM Radio Tribal Mixes|TM Radio Tribal Mixes|https://stream.tm-radio.com/tribalmixes
+NTS 4 To The Floor|NTS 4 To The Floor|https://stream-mixtape-geo.ntslive.net/mixtape5
+NTS Labyrinth|NTS Labyrinth|https://stream-mixtape-geo.ntslive.net/mixtape31
+NTS Poolside|NTS Poolside|https://stream-mixtape-geo.ntslive.net/mixtape4
+NTS Sweat|NTS Sweat|https://stream-mixtape-geo.ntslive.net/mixtape24
+Kool FM|Kool FM|https://admin.stream.rinse.fm/proxy/kool/stream
+Eurodance Radio|Eurodance Radio|https://stream.laut.fm/daydeeeurodance
+Tracksaudio Chill House|Tracksaudio Chill House|https://radiospromo.com/listen/tracksaudio.com_-_chill_house_music/radio.mp3
+~ Dance Wave|~ Dance Wave|https://dancewave.online/dance.mp3
+~ Soma cliqhop idm|~ Soma cliqhop idm|https://ice2.somafm.com/cliqhop-256-mp3
+~ Soma DEF CON Radio|~ Soma DEF CON Radio|https://ice2.somafm.com/defcon-256-mp3
+~ Soma Dub Step Beyond|~ Soma Dub Step Beyond|https://ice2.somafm.com/dubstep-256-mp3
+~ Soma The Trip|~ Soma The Trip|https://ice2.somafm.com/thetrip-128-mp3
+~ Dub Ninja|~ Dub Ninja|https://dub.ninja/live

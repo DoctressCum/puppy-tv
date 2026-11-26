@@ -1,0 +1,18 @@
+BR Klassik|BR Klassik|https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid
+Classic FM|Classic FM|https://media-ice.musicradio.com/ClassicFMMP3
+Classic FM Calm|Classic FM Calm|https://media-ice.musicradio.com/ClassicFMCalmMP3
+Classical KING FM|Classical KING FM|https://classicalking.streamguys1.com/king-fm-aac-128k
+Fr Musique Classique+|Fr Musique Classique+|https://icecast.radiofrance.fr/francemusiqueclassiqueplus-midfi.mp3
+France Musique|France Musique|https://icecast.radiofrance.fr/francemusique-midfi.mp3
+Klassik Radio|Klassik Radio|https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
+Radio Swiss Classic|Radio Swiss Classic|https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+Venice Classic|Venice Classic|https://uk2.streamingpulse.com/ssl/vcr1
+WQXR|WQXR|https://stream.wqxr.org/wqxr
+Ancient FM|Ancient FM|https://mediaserv73.live-streams.nl:18058/stream
+Classical California|Classical California|https://14103.live.streamtheworld.com/KUSCAAC96.aac
+CRB Classical 99.5|CRB Classical 99.5|https://wgbh-live.streamguys1.com/classical-hi
+WBJC Classical|WBJC Classical|https://ice64.securenetsystems.net/WBJC
+WFMT Chicago|WFMT Chicago|https://wfmt.streamguys1.com/main-source
+Solo Piano Radio|Solo Piano Radio|https://pianosolo.streamguys1.com/live
+WMNR Classical|WMNR Classical|https://wmnr.streamguys1.com/live
+NTS Sheet Music|NTS Sheet Music|https://stream-mixtape-geo.ntslive.net/mixtape35

@@ -143,7 +143,30 @@
     ".ptv-min{position:absolute;left:0;right:0;top:160px;color:#e8e8e8;font-family:" + F_MIN + "}",
     ".ptv-mclock{font-size:168px;font-weight:200;line-height:1;letter-spacing:-2px}",
     ".ptv-mdate{font-size:24px;color:#8a8a8a;margin-top:14px}",
-    ".t-minimal .ptv-foot{color:#555}"
+    ".t-minimal .ptv-foot{color:#555}",
+    // radio card
+    ".ptv-radio-on .ptv-scard,.ptv-radio-on .ptv-ntop,.ptv-radio-on .w98-win,.ptv-radio-on .ptv-min,.ptv-radio-on .ptv-rbox,.ptv-radio-on .ptv-pwrap{display:none}",
+    ".prad{position:absolute;left:252px;top:96px;width:520px;text-align:center}",
+    ".prad-bar{display:none}",
+    ".ptv-radio-on .ptv-foot{display:none}",
+    ".prad-body{padding:18px 22px 16px}",
+    ".prad-kicker{font-size:18px;letter-spacing:1px;opacity:.8}",
+    ".prad-name{font-size:44px;line-height:1.1;margin:6px 0 2px}",
+    ".prad-genre{font-size:20px;opacity:.75}",
+    ".prad-eq{height:54px;margin:12px auto 4px;display:flex;align-items:flex-end;justify-content:center}",
+    ".prad-eq span{display:block;width:12px;height:54px;margin:0 4px;border-radius:6px 6px 2px 2px;background:currentColor;opacity:.75;transform-origin:50% 100%;animation:pradeq 1.1s ease-in-out infinite alternate}",
+    "@keyframes pradeq{0%{transform:scaleY(.18)}50%{transform:scaleY(.8)}100%{transform:scaleY(.35)}}",
+    ".prad-clock{font-size:46px;line-height:1.1}",
+    ".prad-live{font-size:15px;margin-top:6px;opacity:.65}",
+    ".t-pink .prad{color:#5a2340}.t-pink .prad-body{background:#fff;border:3px solid #5a2340;box-shadow:6px 6px 0 #5a2340}",
+    ".t-nature .prad{color:#fffaf0;text-shadow:0 2px 10px rgba(30,30,40,.5)}.t-nature .prad{top:70px;left:130px}.t-nature .prad-name{font-size:56px}",
+    ".t-seasons .prad{color:#4a3222}.t-seasons .prad-body{background:rgba(253,246,232,.94);border:3px solid rgba(74,50,34,.85);border-radius:26px 14px 30px 12px/14px 28px 12px 24px;box-shadow:4px 6px 0 rgba(74,50,34,.22)}",
+    ".t-seasons .prad-eq span{background:#b5652e}",
+    ".t-retro .prad{color:#fff;font-family:" + F_MONO + "}.t-retro .prad-body{background:#111;border:4px solid #eee}.t-retro .prad-eq span{border-radius:0;background:#ffd6e7}",
+    ".t-win98 .prad{color:#000;font-family:" + F_98 + ";background:#c0c0c0;padding:3px;box-shadow:" + BEVEL + ";text-align:left}",
+    ".t-win98 .prad-bar{display:flex;background:linear-gradient(90deg,#000080,#1084d0);color:#fff;font-weight:bold;padding:4px 4px 4px 8px;justify-content:space-between;align-items:center}",
+    ".t-win98 .prad-body{text-align:center}.t-win98 .prad-eq span{border-radius:0;background:#008080;opacity:1}",
+    ".t-minimal .prad{color:#e8e8e8;font-family:" + F_MIN + "}.t-minimal .prad-name{font-weight:200;font-size:52px}.t-minimal .prad-eq span{width:6px;background:#888}"
   ].join("\n");
   var css = el("style", null, document.head || document.body);
   css.textContent = [
@@ -925,14 +948,32 @@
     else if (t === "win98") buildWin98();
     else if (t === "minimal") buildMinimal();
     else buildPink();
+    if (S && S.mode === "radio" && S.src) buildRadio(t);
     curTheme = t;
+  }
+  // ---------- radio card (sits on top of whichever theme is on) ----------
+  function buildRadio(t) {
+    root.className += " ptv-radio-on";
+    var r = el("div", { "class": "prad" }, layer);
+    var bar = el("div", { "class": "prad-bar" }, r);
+    el("span", { text: "\u266A puppy radio.exe" }, bar);
+    var bb = el("span", { "class": "w98-btns" }, bar);
+    ["_", "\u00D7"].forEach(function (x) { el("span", { "class": "w98 w98-b", text: x }, bb); });
+    var body = el("div", { "class": "prad-body" }, r);
+    el("div", { "class": "prad-kicker", text: "\u266A now playing on puppy radio \u266A" }, body);
+    el("div", { "class": "prad-name", text: S.title || "a little radio station" }, body);
+    if (S.genre) el("div", { "class": "prad-genre", text: S.genre }, body);
+    var eq = el("div", { "class": "prad-eq" }, body);
+    for (var i = 0; i < 9; i++) { var b = el("span", null, eq); b.style.animationDelay = "-" + (i * 0.37 % 1.3).toFixed(2) + "s"; b.style.animationDuration = (0.9 + (i * 0.23 % 0.7)).toFixed(2) + "s"; }
+    clockEls.push(el("div", { "class": "prad-clock" }, body));
+    el("div", { "class": "prad-live", text: "\u25CF live \u00B7 everyone hears the same station" }, body);
   }
   function tickIdle(force) {
     var t = wantedTheme();
     if (t !== curTheme) root.className = "t-" + t;   // tap/badge/messages follow the theme even during a video
     if (idle.style.display === "none" && !force) return;
     var now = viewNow();
-    var sig = t + "|" + (t === "nature" ? ymd(now) + "|" + Math.floor((now.getHours() * 60 + now.getMinutes()) / 5) : t === "seasons" ? ymd(now) : "");
+    var sig = (S && S.mode === "radio" ? "radio:" + S.src + "|" : "") + t + "|" + (t === "nature" ? ymd(now) + "|" + Math.floor((now.getHours() * 60 + now.getMinutes()) / 5) : t === "seasons" ? ymd(now) : "");
     if (sig !== curSig || force) { curSig = sig; drawTheme(t, now); }
     var ts = fmtTime(now), ds = fmtDate(now);
     clockEls.forEach(function (e) {
@@ -1016,7 +1057,7 @@
         if (msg.dataset) msg.dataset.net = "1";
       })
       .then(function () {
-        setTimeout(poll, S && S.playing ? POLL_PLAYING_MS : POLL_IDLE_MS);
+        setTimeout(poll, S && S.playing && S.mode === "sync" ? POLL_PLAYING_MS : POLL_IDLE_MS);
       });
   }
 
@@ -1117,6 +1158,37 @@
       if (hls) try { hls.destroy(); } catch (e) {}
       v.remove();
     };
+  }
+
+  // ---- live radio stream (audio only; everyone just tunes in, there is nothing to time-sync) ----
+  function RadioAdapter(src) {
+    var a = el("audio", { preload: "none" }, stage);
+    var self = this, tries = 0, dead = false, wantPlay = false;
+    this.hardSeekSec = 1e9; this.softSync = false; this.live = true;
+    a.src = src;
+    this.ready = Promise.resolve();
+    function retry() {
+      if (dead) return;
+      if (tries++ >= 4) { onPlayerError("this station isn't answering right now. try another one \u2661"); return; }
+      showMsg("\u266A tuning in" + (tries > 1 ? " again" : "") + "...", 4000);
+      setTimeout(function () { if (dead) return; a.src = src + (src.indexOf("?") >= 0 ? "&" : "?") + "ptv=" + Date.now(); if (wantPlay) self.play(); }, 1500 * tries);
+    }
+    a.addEventListener("error", retry);
+    a.addEventListener("ended", retry);
+    a.addEventListener("playing", function () { tries = 0; });
+    this.time = function () { return 0; };
+    this.seek = function () {};
+    this.play = function () {
+      wantPlay = true;
+      var p = a.play();
+      if (p && p.catch) p.catch(function (err) {
+        if (err && err.name === "NotAllowedError") needTap("\u266A tap for radio \u266A", function () { a.play().catch(function () {}); });
+      });
+    };
+    this.pause = function () { wantPlay = false; a.pause(); };
+    this.playing = function () { return !a.paused && !a.ended; };
+    this.duration = function () { return Infinity; };
+    this.destroy = function () { dead = true; try { a.pause(); a.removeAttribute("src"); a.load(); } catch (e) {} a.remove(); };
   }
 
   // ---- YouTube (IFrame Player API) ----
@@ -1239,7 +1311,9 @@
   var lastSeekAt = 0;
   function apply() {
     if (!S) return;
-    var src = S.mode === "sync" ? (S.src || "") : "";
+    var radio = S.mode === "radio" && !!S.src;
+    var src = S.mode === "sync" || radio ? (S.src || "") : "";
+    if (radio) src = "radio:" + src;
     if (src !== loadedSrc) {
       if (player) { player.destroy(); player = null; }
       tap.style.display = "none";
@@ -1247,8 +1321,9 @@
       loadedSrc = src;
       reportedDurFor = null;
       if (src) {
-        var k = kindOf(src);
-        if (k === "yt") player = new YTAdapter(src, targetSec());
+        var k = radio ? "radio" : kindOf(src);
+        if (k === "radio") player = new RadioAdapter(S.src);
+        else if (k === "yt") player = new YTAdapter(src, targetSec());
         else if (k === "vimeo") player = new VimeoAdapter(src);
         else player = new FileAdapter(src, k === "hls");
         var mine = player;
@@ -1256,9 +1331,9 @@
           .catch(function (e) { onPlayerError(e.message); });
       }
     }
-    idle.style.display = src ? "none" : "block";
+    idle.style.display = src && !radio ? "none" : "block";
     tickIdle();
-    badge.style.display = src && !S.playing ? "block" : "none";
+    badge.style.display = src && !radio && !S.playing ? "block" : "none";
     if (S.title) badge.textContent = "\u275A\u275A paused \u00B7 " + S.title;
     else badge.textContent = "\u275A\u275A paused";
     if (loadedV !== S.v) { loadedV = S.v; syncNow(true); }

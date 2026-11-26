@@ -1,0 +1,8 @@
+Paradise Mellow|Paradise Mellow|https://stream.radioparadise.com/mellow-128
+Radio Swiss Jazz|Radio Swiss Jazz|https://stream.srg-ssr.ch/m/rsj/mp3_128
+Tracksaudio Chill Lounge|Tracksaudio Chill Lounge|https://radiospromo.com/listen/tracksaudio.com_-_chill_out_lounge_music/radio.mp3
+~ Soma Lush|~ Soma Lush|https://ice2.somafm.com/lush-128-mp3
+~ Soma Illinois Street|~ Soma Illinois Street|https://ice2.somafm.com/illstreet-128-mp3
+~ Soma Bossa Beyond|~ Soma Bossa Beyond|https://ice2.somafm.com/bossa-256-mp3
+~ Soma Seven Inch Soul|~ Soma Seven Inch Soul|https://ice2.somafm.com/7soul-128-mp3
+~ Soma Secret Agent|~ Soma Secret Agent|https://ice2.somafm.com/secretagent-128-mp3

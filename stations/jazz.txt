@@ -1,0 +1,22 @@
+Classic Vinyl HD|Classic Vinyl HD|https://icecast.walmradio.com:8443/classic
+FIP Jazz|FIP Jazz|https://icecast.radiofrance.fr/fipjazz-midfi.mp3
+France Musique La Jazz|France Musique La Jazz|https://icecast.radiofrance.fr/francemusiquelajazz-midfi.mp3
+Jazz Radio FR|Jazz Radio FR|https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+Jazz24|Jazz24|https://knkx-live-a.edge.audiocdn.com/6285_128k
+Radio Swiss Jazz|Radio Swiss Jazz|https://stream.srg-ssr.ch/m/rsj/mp3_128
+Smooth Jazz 24/7|Smooth Jazz 24/7|https://smoothjazz.cdnstream1.com/2585_128.mp3
+TSF Jazz|TSF Jazz|https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+Walm Cool Jazz|Walm Cool Jazz|https://icecast.walmradio.com:8443/jazz
+WWOZ New Orleans|WWOZ New Orleans|https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
+Concertzender Jazz|Concertzender Jazz|https://streams.greenhost.nl:8006/jazz
+Giants of Jazz|Giants of Jazz|https://streaming.radio.co/s297e618a7/listen
+Head Wax Radio|Head Wax Radio|https://headwaxradio.radioca.st/stream
+KEWU Jazz|KEWU Jazz|https://streamer.radio.co/s3ba633066/listen
+KJazz 88.1|KJazz 88.1|https://streaming.live365.com/a49833
+KSDS Jazz 88.3|KSDS Jazz 88.3|https://ksds-ice.streamguys1.com/ksds.mp3
+Octave Radio|Octave Radio|https://octaverecords.out.airtime.pro/octaverecords_a
+Radio Suisse Jazz|Radio Suisse Jazz|https://stream.srg-ssr.ch/m/rsj/aacp_96
+WBGO Jazz|WBGO Jazz|https://ais-sa8.cdnstream1.com/3629_128.mp3
+Jazz Con Class|Jazz Con Class|https://streaming.live365.com/a73229
+KCCK Christmas Jazz|KCCK Christmas Jazz|https://stream.kcck.org/kcckjazz2
+~ Soma Sonic Universe|~ Soma Sonic Universe|https://ice2.somafm.com/sonicuniverse-256-mp3

@@ -1,0 +1,18 @@
+0N K-Pop|0N K-Pop|https://0n-kpop.radionetz.de/0n-kpop.mp3
+100FM K-Pop|100FM K-Pop|https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio
+City K-Pop|City K-Pop|https://play.global.audio/citykpophi.aac
+Conexion Girl Groups|Conexion Girl Groups|https://stream.laut.fm/conexiongirlsgroups
+Conexion K-Pop|Conexion K-Pop|https://stream.laut.fm/conexionkpop
+Hit FM K-Pop Hits|Hit FM K-Pop Hits|https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac
+Hotmix K-Pop|Hotmix K-Pop|https://streaming.hotmixradio.com/hotmix-k-pop-en-mp3
+I Love K-Pop|I Love K-Pop|https://ilm.stream12.radiohost.de/ilm-ilovekpop_mp3-192
+Juka K-Pop|Juka K-Pop|https://juka-kpop.stream.laut.fm/juka-kpop
+K-Pop 24|K-Pop 24|https://lux.radio.tvstitch.com/k-pop-sd
+K-Pop Hits|K-Pop Hits|https://kpophits.stream.laut.fm/kpophits
+Kpop Radio HU|Kpop Radio HU|https://s5.radio.co/s078df1838/listen
+Listen.moe K-Pop|Listen.moe K-Pop|https://listen.moe/kpop/fallback
+Only Hits K-Pop|Only Hits K-Pop|https://kpop.onlyhit.us/play
+Radio Saranghae|Radio Saranghae|https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3
+RauteMusik K-Pop|RauteMusik K-Pop|https://streams.rautemusik.fm/k-pop/mp3-192
+REYFM K-Pop|REYFM K-Pop|https://listen.reyfm.de/kpop_320kbps.mp3
+SBS PopAsia|SBS PopAsia|https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web

@@ -1,0 +1,34 @@
+parts|4
+city-radio|City Radio|81
+weird-experimental|Weird & Experimental|43
+romance-smooth|Romance & Smooth|8
+city-pop-vaporwave|City Pop & Vaporwave|4
+pagan-folk|Pagan & Folk|6
+nature-field-recording|Nature & Field Recording|7
+vintage-spooky|Vintage & Spooky|15
+lofi|Lofi|20
+k-pop|K-Pop|18
+j-pop|J-Pop|9
+anime-vocaloid|Anime & Vocaloid|12
+asian-pop|Asian Pop|9
+pop-variety|Pop & Variety|15
+chill-ambient|Chill & Ambient|28
+witchy-meditation|Witchy & Meditation|13
+synthwave-retro|Synthwave & Retro|15
+games-soundtracks|Games & Soundtracks|19
+electronic-dance|Electronic & Dance|44
+hip-hop-r-b|Hip-Hop & R&B|14
+soul-funk|Soul & Funk|29
+rock-alt|Rock & Alt|22
+indie-eclectic|Indie & Eclectic|12
+metal|Metal|13
+punk-goth|Punk & Goth|5
+jazz|Jazz|22
+blues|Blues|6
+classical|Classical|18
+country-folk|Country & Folk|13
+reggae|Reggae|9
+latin|Latin|7
+world|World|21
+oldies|Oldies|17
+holiday|Holiday|22

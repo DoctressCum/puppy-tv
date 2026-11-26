@@ -1,0 +1,9 @@
+Gotanno FM|Gotanno FM|https://radio.gotanno.love/;
+J-Pop Sakura|J-Pop Sakura|https://quincy.torontocast.com:2070/stream.mp3
+Japan Hits|Japan Hits|https://quincy.torontocast.com:2020/stream.mp3
+Japanradio.de|Japanradio.de|https://stream.japanradio.de/live
+Kawaii Music|Kawaii Music|https://kawaii-music.stream.laut.fm/kawaii-music
+Listen.moe J-Pop|Listen.moe J-Pop|https://listen.moe/fallback
+Listen.moe J-Pop Ogg|Listen.moe J-Pop Ogg|https://listen.moe/stream
+Only Hits Japan|Only Hits Japan|https://j.onlyhit.us/play
+Sound Up Station|Sound Up Station|https://stream2.rcast.net/70945

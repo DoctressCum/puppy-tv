@@ -1,0 +1,5 @@
+0N Gothic|0N Gothic|https://0n-gothic.radionetz.de/0n-gothic.mp3
+12punks.fm|12punks.fm|https://12punks-high.rautemusik.fm/
+Punkrockers Radio|Punkrockers Radio|https://stream.punkrockers-radio.de:8443/prr.ogg
+Radio Bob Gothic|Radio Bob Gothic|https://streams.radiobob.de/gothic/mp3-192/homepage/
+Radio Bob Punk|Radio Bob Punk|https://streams.radiobob.de/bob-punk/mp3-192/homepage/

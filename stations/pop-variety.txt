@@ -1,0 +1,15 @@
+181 The Mix|181 The Mix|https://listen.181fm.com/181-themix_128k.mp3
+Antenne Bayern|Antenne Bayern|https://stream.antenne.de/antenne/stream/mp3
+Capital UK|Capital UK|https://media-ice.musicradio.com/CapitalMP3
+FIP Pop|FIP Pop|https://icecast.radiofrance.fr/fippop-midfi.mp3
+Heart UK|Heart UK|https://media-ice.musicradio.com/HeartUKMP3
+Hit Radio FFH|Hit Radio FFH|https://mp3.ffh.de/radioffh/hqlivestream.mp3
+Hitradio Oe3|Hitradio Oe3|https://orf-live.ors-shoutcast.at/oe3-q2a
+Hotmix Hits|Hotmix Hits|https://streaming.hotmixradio.com/hotmix-hits-en-mp3
+NRJ Hits|NRJ Hits|https://streaming.nrjaudio.fm/ou7xugf3s5gi
+Radio 538|Radio 538|https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+Radio Paradise Main|Radio Paradise Main|https://stream.radioparadise.com/mp3-128
+Radio Swiss Pop|Radio Swiss Pop|https://stream.srg-ssr.ch/m/rsp/mp3_128
+RTL 102.5 Best|RTL 102.5 Best|https://streamingv2.shoutcast.com/rtl-1025-best
+Smooth UK|Smooth UK|https://media-ice.musicradio.com/SmoothUKMP3
+~ Soma PopTron|~ Soma PopTron|https://ice2.somafm.com/poptron-128-mp3

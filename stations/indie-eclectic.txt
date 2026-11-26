@@ -1,0 +1,12 @@
+FIP|FIP|https://icecast.radiofrance.fr/fip-midfi.mp3
+FIP Nouveautes|FIP Nouveautes|https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3
+FluxFM Indie Disco|FluxFM Indie Disco|https://streams.fluxfm.de/indiedisco/mp3-320/streams.fluxfm.de/
+KEXP Seattle|KEXP Seattle|https://kexp.streamguys1.com/kexp160.aac
+NTS 1|NTS 1|https://stream-relay-geo.ntslive.net/stream
+NTS 2|NTS 2|https://stream-relay-geo.ntslive.net/stream2
+WFMU Freeform|WFMU Freeform|https://stream0.wfmu.org/freeform-128k
+SLE Radio One|SLE Radio One|https://sleradiogroup.com/listen/sle_radio_1/sleone.mp3
+~ Soma Black Rock FM|~ Soma Black Rock FM|https://ice2.somafm.com/brfm-128-mp3
+~ Soma Covers|~ Soma Covers|https://ice2.somafm.com/covers-128-mp3
+~ Soma Digitalis|~ Soma Digitalis|https://ice2.somafm.com/digitalis-256-mp3
+~ Soma Indie Pop Rocks|~ Soma Indie Pop Rocks|https://ice2.somafm.com/indiepop-128-mp3

@@ -1,0 +1,17 @@
+0N 60s|0N 60s|https://0n-60s.radionetz.de/0n-60s.mp3
+181 Beatles|181 Beatles|https://listen.181fm.com/181-beatles_128k.mp3
+181 Classic Hits|181 Classic Hits|https://listen.181fm.com/181-greatoldies_128k.mp3
+181 Lite 80s|181 Lite 80s|https://listen.181fm.com/181-lite80s_128k.mp3
+181 The Heart Love Songs|181 The Heart Love Songs|https://listen.181fm.com/181-heart_128k.mp3
+Gold|Gold|https://media-ice.musicradio.com/GoldMP3
+Heart 70s|Heart 70s|https://media-ice.musicradio.com/Heart70sMP3
+Heart 80s|Heart 80s|https://media-ice.musicradio.com/Heart80sMP3
+Heart 90s|Heart 90s|https://media-ice.musicradio.com/Heart90sMP3
+Hotmix 2000|Hotmix 2000|https://streaming.hotmixradio.com/hotmix-2000-en-mp3
+Hotmix 2010|Hotmix 2010|https://streaming.hotmixradio.com/hotmix-2010-en-mp3
+Hotmix 80|Hotmix 80|https://streaming.hotmixradio.com/hotmix-80-en-mp3
+Hotmix 90|Hotmix 90|https://streaming.hotmixradio.com/hotmix-90-en-mp3
+All Oldies Channel|All Oldies Channel|https://radio.alloldieschannel.com/listen/all_oldies_channel/stream
+~ Soma Left Coast 70s|~ Soma Left Coast 70s|https://ice2.somafm.com/seventies-320-mp3
+~ Soma The In-Sound|~ Soma The In-Sound|https://ice2.somafm.com/insound-256-mp3
+~ Soma Underground 80s|~ Soma Underground 80s|https://ice2.somafm.com/u80s-256-mp3

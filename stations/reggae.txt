@@ -1,0 +1,9 @@
+bigFM Dancehall|bigFM Dancehall|https://stream.bigfm.de/dancehall/mp3-128
+FIP Reggae|FIP Reggae|https://icecast.radiofrance.fr/fipreggae-midfi.mp3
+Irie FM|Irie FM|https://stream.iriefm.net:8008/stream
+Radio Nova|Radio Nova|https://novazz.ice.infomaniak.ch/novazz-128.mp3
+Alpha Boys School|Alpha Boys School|https://alphaboys-live.streamguys1.com/alphaboys.mp3
+Dr Dicks Dub Shack|Dr Dicks Dub Shack|https://streamer.radio.co/s0635c8b0d/listen
+Real Roots Radio|Real Roots Radio|https://streams.radio.co/s1df61e0af/listen
+Badam Radio|Badam Radio|https://listen.radioking.com/radio/105610/stream/144949
+~ Soma Heavyweight Regga|~ Soma Heavyweight Reggae|https://ice2.somafm.com/reggae-256-mp3

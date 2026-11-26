@@ -1,0 +1,151 @@
+~ Soma Vaporwaves|~ Soma Vaporwaves|https://ice2.somafm.com/vaporwaves-128-mp3|Synthwave & Retro
+Hotmix Gaming|Hotmix Gaming|https://streaming.hotmixradio.com/hotmix-gaming-en-mp3|Games & Soundtracks
+Rainwave All|Rainwave All|https://relay.rainwave.cc/all.mp3|Games & Soundtracks
+Rainwave Chill|Rainwave Chill|https://relay.rainwave.cc/chill.mp3|Games & Soundtracks
+Rainwave Chiptune|Rainwave Chiptune|https://relay.rainwave.cc/chiptune.mp3|Games & Soundtracks
+Rainwave Covers|Rainwave Covers|https://relay.rainwave.cc/covers.mp3|Games & Soundtracks
+Rainwave Game|Rainwave Game|https://relay.rainwave.cc/game.mp3|Games & Soundtracks
+Rainwave OC ReMix|Rainwave OC ReMix|https://relay.rainwave.cc/ocremix.mp3|Games & Soundtracks
+Arcade Radio|Arcade Radio|https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2|Games & Soundtracks
+Cinemix Movie Music|Cinemix Movie Music|https://kathy.torontocast.com:1825/stream|Games & Soundtracks
+Classic FM Gaming|Classic FM Gaming|https://icecast.thisisdax.com/ClassicFM-M-Gaming|Games & Soundtracks
+Commodexplorer|Commodexplorer|https://manager8.streamradio.fr:2295/stream|Games & Soundtracks
+CVGM|CVGM|https://slacker.cvgm.net/cvgm192|Games & Soundtracks
+Ericade Tracker Radio|Ericade Tracker Radio|https://radio.ericade.net/sc/stream/1/|Games & Soundtracks
+GTA Radio|GTA Radio|https://stream.laut.fm/gta-classics|Games & Soundtracks
+Kaaosradio Chip|Kaaosradio Chip|https://kaaosradio.fi:8001/chip|Games & Soundtracks
+No Life Radio|No Life Radio|https://listen.nolife-radio.com/stream|Games & Soundtracks
+RPGamers Radio|RPGamers Radio|https://listen.rpgamers.net/rpgn|Games & Soundtracks
+Shmup Radio|Shmup Radio|https://stream.shmupradio.com/320|Games & Soundtracks
+Radio Rivendell|Radio Rivendell|https://play.radiorivendell.com/radio/8000/radio.mp3|Games & Soundtracks
+181 Energy 93|181 Energy 93|https://listen.181fm.com/181-energy93_128k.mp3|Electronic & Dance
+After Hours Melodic|After Hours Melodic|https://r.bgp.rodeo/listen/after_hours/radio.mp3|Electronic & Dance
+Capital Dance|Capital Dance|https://media-ice.musicradio.com/CapitalDanceMP3|Electronic & Dance
+FIP Electro|FIP Electro|https://icecast.radiofrance.fr/fipelectro-midfi.mp3|Electronic & Dance
+FluxFM Techno|FluxFM Techno|https://fluxmusic.api.radiosphere.io/channels/techno-underground/stream.mp3?quality=1|Electronic & Dance
+Frisky Radio|Frisky Radio|https://stream.frisky.friskyradio.com/frisky_mp3_high|Electronic & Dance
+HardBase.FM|HardBase.FM|https://listen.hardbase.fm/tunein-aac-hd|Electronic & Dance
+Hotmix Deep House|Hotmix Deep House|https://streaming.hotmixradio.com/hotmix-deep-en-mp3|Electronic & Dance
+Hotmix Party|Hotmix Party|https://streaming.hotmixradio.com/hotmix-party-en-mp3|Electronic & Dance
+HouseTime.FM|HouseTime.FM|https://listen.housetime.fm/tunein-aac-hd|Electronic & Dance
+Radio ACID|Radio ACID|https://stream.radioacid.com/stream|Electronic & Dance
+Radio Record Dance|Radio Record Dance|https://radiorecord.hostingradio.ru/rr_main96.aacp|Electronic & Dance
+Record Club|Record Club|https://radiorecord.hostingradio.ru/club96.aacp|Electronic & Dance
+Record Deep|Record Deep|https://radiorecord.hostingradio.ru/deep96.aacp|Electronic & Dance
+Sunshine Live|Sunshine Live|https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/|Electronic & Dance
+Sunshine Live 2000s|Sunshine Live 2000s|https://stream.sunshine-live.de/2000er/mp3-192/|Electronic & Dance
+TechnoBase.FM|TechnoBase.FM|https://listen.technobase.fm/tunein-aac-hd|Electronic & Dance
+TranceBase.FM|TranceBase.FM|https://listen.trancebase.fm/tunein-aac-hd|Electronic & Dance
+UK Bass Radio|UK Bass Radio|https://www.ukbassradio.com/stream|Electronic & Dance
+54house.fm|54house.fm|https://54house.fm:9013/stream|Electronic & Dance
+Bondi Radio|Bondi Radio|https://streaming.radio.co/sfd68ddd77/listen|Electronic & Dance
+Deeper Shades House|Deeper Shades House|https://andromeda.housejunkie.ca/radio/8000/radio.mp3|Electronic & Dance
+Foundation FM|Foundation FM|https://streamer.radio.co/s0628bdd53/listen|Electronic & Dance
+Groove Radio|Groove Radio|https://streams.radio.co/s14193ab17/listen|Electronic & Dance
+ISEKOI Radio Main|ISEKOI Radio Main|https://public.isekoi-radio.com/listen/isekoi/radio.mp3|Electronic & Dance
+Old Skool Rave Tapes|Old Skool Rave Tapes|https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/listen|Electronic & Dance
+OpenLab FM|OpenLab FM|https://ice09.fluidstream.net/openlab.aac|Electronic & Dance
+Radio DY10|Radio DY10|https://flux.radiody10.com/live|Electronic & Dance
+SerrebiRadio|SerrebiRadio|https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio|Electronic & Dance
+TEKnival Radio|TEKnival Radio|https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3|Electronic & Dance
+TM Radio Tribal Mixes|TM Radio Tribal Mixes|https://stream.tm-radio.com/tribalmixes|Electronic & Dance
+NTS 4 To The Floor|NTS 4 To The Floor|https://stream-mixtape-geo.ntslive.net/mixtape5|Electronic & Dance
+NTS Labyrinth|NTS Labyrinth|https://stream-mixtape-geo.ntslive.net/mixtape31|Electronic & Dance
+NTS Poolside|NTS Poolside|https://stream-mixtape-geo.ntslive.net/mixtape4|Electronic & Dance
+NTS Sweat|NTS Sweat|https://stream-mixtape-geo.ntslive.net/mixtape24|Electronic & Dance
+Kool FM|Kool FM|https://admin.stream.rinse.fm/proxy/kool/stream|Electronic & Dance
+Eurodance Radio|Eurodance Radio|https://stream.laut.fm/daydeeeurodance|Electronic & Dance
+Tracksaudio Chill House|Tracksaudio Chill House|https://radiospromo.com/listen/tracksaudio.com_-_chill_house_music/radio.mp3|Electronic & Dance
+~ Dance Wave|~ Dance Wave|https://dancewave.online/dance.mp3|Electronic & Dance
+~ Soma cliqhop idm|~ Soma cliqhop idm|https://ice2.somafm.com/cliqhop-256-mp3|Electronic & Dance
+~ Soma DEF CON Radio|~ Soma DEF CON Radio|https://ice2.somafm.com/defcon-256-mp3|Electronic & Dance
+~ Soma Dub Step Beyond|~ Soma Dub Step Beyond|https://ice2.somafm.com/dubstep-256-mp3|Electronic & Dance
+~ Soma The Trip|~ Soma The Trip|https://ice2.somafm.com/thetrip-128-mp3|Electronic & Dance
+~ Dub Ninja|~ Dub Ninja|https://dub.ninja/live|Electronic & Dance
+181 The Beat|181 The Beat|https://listen.181fm.com/181-beat_128k.mp3|Hip-Hop & R&B
+Capital XTRA|Capital XTRA|https://media-ice.musicradio.com/CapitalXTRANationalMP3|Hip-Hop & R&B
+DOPE Hip Hop Radio|DOPE Hip Hop Radio|https://s30.radiolize.com/radio/8100/radio.mp3|Hip-Hop & R&B
+Hip Hop and RnB FM|Hip Hop and RnB FM|https://ice64.securenetsystems.net/LFTM|Hip-Hop & R&B
+Hotmix Rap Francais|Hotmix Rap Francais|https://streaming.hotmixradio.com/hotmix-rap-fr-mp3|Hip-Hop & R&B
+Hotmix Rap US|Hotmix Rap US|https://streaming.hotmixradio.com/hotmix-hiphop-us-en-mp3|Hip-Hop & R&B
+Mouv|Mouv|https://icecast.radiofrance.fr/mouv-midfi.mp3|Hip-Hop & R&B
+Record Trap|Record Trap|https://radiorecord.hostingradio.ru/trap96.aacp|Hip-Hop & R&B
+Throwback 93.3|Throwback 93.3|https://stream.revma.ihrhls.com/zc7346|Hip-Hop & R&B
+West Coast G-Funk|West Coast G-Funk|https://r.bgp.rodeo/listen/west_coast/radio.mp3|Hip-Hop & R&B
+Radio Nova Hip-Hop|Radio Nova Hip-Hop|https://nova-odn.ice.infomaniak.ch/nova-odn-256.aac|Hip-Hop & R&B
+Radio Krimi|Radio Krimi|https://radio13.pro-fhi.net/flux-nwsimjda2/stream|Hip-Hop & R&B
+Sensimedia Hip Hop|Sensimedia Hip Hop|https://sensihiphop.radioca.st/stream|Hip-Hop & R&B
+NTS Rap House|NTS Rap House|https://stream-mixtape-geo.ntslive.net/mixtape22|Hip-Hop & R&B
+181 Soul|181 Soul|https://listen.181fm.com/181-soul_128k.mp3|Soul & Funk
+Disco Funk 70s 80s|Disco Funk 70s 80s|https://discofunk.streamingmedia.it/usa|Soul & Funk
+FIP Groove|FIP Groove|https://icecast.radiofrance.fr/fipgroove-midfi.mp3|Soul & Funk
+Funky Corner Radio|Funky Corner Radio|https://ais-sa2.cdnstream1.com/2447_192.mp3|Soul & Funk
+Funky Radio|Funky Radio|https://funkyradio.streamingmedia.it/play.mp3|Soul & Funk
+Hotmix Disco Funk|Hotmix Disco Funk|https://streaming.hotmixradio.com/hotmix-disco-funk-en-mp3|Soul & Funk
+Italo Disco 80s|Italo Disco 80s|https://cast1.torontocast.com:2130/stream|Soul & Funk
+JFSR Jazz Funk Soul|JFSR Jazz Funk Soul|https://s2.radio.co/s22ae5a8a6/listen|Soul & Funk
+Comala Radio|Comala Radio|https://listen.radioking.com/radio/38120/stream/74519|Soul & Funk
+Disco Factory FM|Disco Factory FM|https://s5.radio.co/s253044a7a/listen|Soul & Funk
+The Face Radio|The Face Radio|https://the-face-radio.radiocult.fm/stream|Soul & Funk
+Funk the Planet|Funk the Planet|https://streaming.live365.com/a01484|Soul & Funk
+Funky Ass Tunes|Funky Ass Tunes|https://ams1.reliastream.com/proxy/john12/stream|Soul & Funk
+Groove Cabane|Groove Cabane|https://listen.radioking.com/radio/314264/stream/361499|Soul & Funk
+Intl Rare Groove|Intl Rare Groove|https://s131.radiolize.com/radio/8110/radio.mp3|Soul & Funk
+La Patate Douce|La Patate Douce|https://listen.radioking.com/radio/285742/stream/472984|Soul & Funk
+Le Bon Mix|Le Bon Mix|https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio|Soul & Funk
+Mojo Radio|Mojo Radio|https://stream.laut.fm/mojo|Soul & Funk
+Ness Radio|Ness Radio|https://radio.nessradio.net:8212/nessradio-hd|Soul & Funk
+Panacea Radio|Panacea Radio|https://stream-15.aiir.com/kqwcuxfxcwhtv|Soul & Funk
+Radio Bar Sardine|Radio Bar Sardine|https://listen.radioking.com/radio/552908/stream/612230|Soul & Funk
+Radio Nula Classic|Radio Nula Classic|https://strm.radionula.com/channel4|Soul & Funk
+Street Sounds Radio|Street Sounds Radio|https://streaming.broadcastradio.com:10525/streetsd|Soul & Funk
+Radio Santana Breda|Radio Santana Breda|https://server7.radio-streams.net/proxy/santana/stream|Soul & Funk
+Le Mellotron|Le Mellotron|https://listen.radioking.com/radio/477719/stream/534044|Soul & Funk
+Black Rhino Radio|Black Rhino Radio|https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a|Soul & Funk
+NTS Feelings|NTS Feelings|https://stream-mixtape-geo.ntslive.net/mixtape27|Soul & Funk
+~ Soma Seven Inch Soul|~ Soma Seven Inch Soul|https://ice2.somafm.com/7soul-128-mp3|Soul & Funk
+~ Totally Wired Radio|~ Totally Wired Radio|https://totallywired.out.airtime.pro/totallywired_a|Soul & Funk
+0R 80s Rock|0R 80s Rock|https://0nlineradio.radioho.st/0r-80s-rock|Rock & Alt
+181 90s Alternative|181 90s Alternative|https://listen.181fm.com/181-90salt_128k.mp3|Rock & Alt
+181 The Eagle Classic|181 The Eagle Classic|https://listen.181fm.com/181-eagle_128k.mp3|Rock & Alt
+FIP Rock|FIP Rock|https://icecast.radiofrance.fr/fiprock-midfi.mp3|Rock & Alt
+Hotmix Pop Rock|Hotmix Pop Rock|https://streaming.hotmixradio.com/hotmix-pop-rock-en-mp3|Rock & Alt
+Hotmix Rock|Hotmix Rock|https://streaming.hotmixradio.com/hotmix-rock-en-mp3|Rock & Alt
+Radio Paradise Rock|Radio Paradise Rock|https://stream.radioparadise.com/rock-128|Rock & Alt
+Radio X|Radio X|https://media-ice.musicradio.com/RadioXUKMP3|Rock & Alt
+Rock Antenne|Rock Antenne|https://stream.rockantenne.de/rockantenne/stream/mp3|Rock & Alt
+Rock Antenne Alternative|Rock Antenne Alternative|https://s1-webradio.rockantenne.de/alternative/stream/mp3|Rock & Alt
+Rock Antenne Classic|Rock Antenne Classic|https://stream.rockantenne.de/classic-perlen/stream/mp3|Rock & Alt
+Rock Antenne Punkrock|Rock Antenne Punkrock|https://s1-webradio.rockantenne.de/punkrock/stream/mp3|Rock & Alt
+The Current|The Current|https://current.stream.publicradio.org/current.mp3|Rock & Alt
+Birch Street Radio|Birch Street Radio|https://streaming.live365.com/a97155|Rock & Alt
+Ignore Radio Shoegaze|Ignore Radio Shoegaze|https://sp1.autopo.st/8026/stream|Rock & Alt
+Krautrock World|Krautrock World|https://krautrockworld.stream.laut.fm/krautrockworld|Rock & Alt
+Nugs Jam Radio|Nugs Jam Radio|https://radio.nugs.net/nugsnet|Rock & Alt
+Radio Woodstock|Radio Woodstock|https://stream.revma.ihrhls.com/zc7332|Rock & Alt
+The SoCal Sound|The SoCal Sound|https://stream.thesocalsound.org/1|Rock & Alt
+Yacht Rock Miami|Yacht Rock Miami|https://usa20.fastcast4u.com:4100/1753014835|Rock & Alt
+Boogaloo Radio|Boogaloo Radio|https://streams.radio.co/sb88c742f0/listen|Rock & Alt
+Live Jam Radio|Live Jam Radio|https://stations.radio-host.com/proxy/livejam/stream|Rock & Alt
+FIP|FIP|https://icecast.radiofrance.fr/fip-midfi.mp3|Indie & Eclectic
+FIP Nouveautes|FIP Nouveautes|https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3|Indie & Eclectic
+FluxFM Indie Disco|FluxFM Indie Disco|https://streams.fluxfm.de/indiedisco/mp3-320/streams.fluxfm.de/|Indie & Eclectic
+KEXP Seattle|KEXP Seattle|https://kexp.streamguys1.com/kexp160.aac|Indie & Eclectic
+NTS 1|NTS 1|https://stream-relay-geo.ntslive.net/stream|Indie & Eclectic
+NTS 2|NTS 2|https://stream-relay-geo.ntslive.net/stream2|Indie & Eclectic
+WFMU Freeform|WFMU Freeform|https://stream0.wfmu.org/freeform-128k|Indie & Eclectic
+SLE Radio One|SLE Radio One|https://sleradiogroup.com/listen/sle_radio_1/sleone.mp3|Indie & Eclectic
+~ Soma Black Rock FM|~ Soma Black Rock FM|https://ice2.somafm.com/brfm-128-mp3|Indie & Eclectic
+~ Soma Covers|~ Soma Covers|https://ice2.somafm.com/covers-128-mp3|Indie & Eclectic
+~ Soma Digitalis|~ Soma Digitalis|https://ice2.somafm.com/digitalis-256-mp3|Indie & Eclectic
+~ Soma Indie Pop Rocks|~ Soma Indie Pop Rocks|https://ice2.somafm.com/indiepop-128-mp3|Indie & Eclectic
+100 Greatest Metal|100 Greatest Metal|https://cast1.torontocast.com:4660/stream|Metal
+Heavy Metal AAC|Heavy Metal AAC|https://stream.rockantenne.de/heavy-metal/stream/aacp|Metal
+Hotmix Hard Rock|Hotmix Hard Rock|https://streaming.hotmixradio.fr/hotmix-hard_rock-en-mp3|Metal
+Metal Rock Radio|Metal Rock Radio|https://kathy.torontocast.com:2800/;|Metal
+Rock Antenne Heavy Metal|Rock Antenne Heavy Metal|https://s1-webradio.rockantenne.de/heavy-metal/stream/mp3|Metal
+Metal Devastation|Metal Devastation|https://c13.radioboss.fm:18099/stream|Metal
+Doomnation Radio|Doomnation Radio|https://s2.voscast.com:11123/stream|Metal
+Prog Palace Radio|Prog Palace Radio|https://cheetah.streemlion.com/progpalace64|Metal
+Terra Relicta|Terra Relicta|https://a3.asurahosting.com/listen/terra/radio.mp3|Metal
+TotalRock|TotalRock|https://s3.citrus3.com:8056/stream|Metal

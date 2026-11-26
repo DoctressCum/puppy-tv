@@ -1,0 +1,22 @@
+181 Christmas Classics|181 Christmas Classics|https://listen.181fm.com/181-xtraditional_128k.mp3
+181 Christmas Oldies|181 Christmas Oldies|https://listen.181fm.com/181-xoldies_128k.mp3
+181 Christmas R&B|181 Christmas R&B|https://listen.181fm.com/181-xtrue_128k.mp3
+Hotmix Christmas|Hotmix Christmas|https://streaming.hotmixradio.com/hotmix-christmas-en-mp3
+Your Classical Holiday|Your Classical Holiday|https://holiday.stream.publicradio.org/holiday_yc.mp3
+Classical Christmas FM|Classical Christmas FM|https://christmasfm.cdnstream1.com/2550_128.mp3
+Christmas FM Ireland|Christmas FM Ireland|https://christmasfm.cdnstream1.com/2547_128.mp3
+WQXR Holiday|WQXR Holiday|https://stream.wqxr.org/qxr-special.aac
+WALM Christmas Vinyl|WALM Christmas Vinyl|https://icecast.walmradio.com:8443/christmas
+181 Christmas Blender|181 Christmas Blender|https://listen.181fm.com/181-xblender_128k.mp3
+laut.fm Christmas Jazz|laut.fm Christmas Jazz|https://stream.laut.fm/christmasjazz
+laut.fm Xmas|laut.fm Xmas|https://stream.laut.fm/xmas
+laut.fm Christmas Rob|laut.fm Christmas Rob|https://stream.laut.fm/christmasrob
+laut.fm Radio Navidad|laut.fm Radio Navidad|https://stream.laut.fm/radio-navidad
+laut.fm Christmas 24|laut.fm Christmas 24|https://stream.laut.fm/christmasradio24
+~ Soma Christmas Lounge|~ Soma Christmas Lounge|https://ice2.somafm.com/christmas-256-mp3
+~ Soma Christmas Rocks|~ Soma Christmas Rocks|https://ice2.somafm.com/xmasrocks-128-mp3
+~ Soma Dept Store Xmas|~ Soma Dept Store Xmas|https://ice2.somafm.com/deptstore-256-mp3
+~ Soma Jolly Ol Soul|~ Soma Jolly Ol Soul|https://ice2.somafm.com/jollysoul-128-mp3
+~ Soma Xmas in Frisko|~ Soma Xmas in Frisko|https://ice2.somafm.com/xmasinfrisko-128-mp3
+~ Classical King Xmas|~ Classical King Xmas|https://classicalking.streamguys1.com/christmas-aac-96k
+~ Radio North Pole|~ Radio North Pole|https://streaming.radiostreamlive.com/radionorthpol

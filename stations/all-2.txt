@@ -1,0 +1,155 @@
+Radio Paisajes|Radio Paisajes|https://stream.zeno.fm/nftv61u086etv|Nature & Field Recording
+Sleepbot Environmental|Sleepbot Environmental|https://primarystream.sleepbot.com:8218/seb|Nature & Field Recording
+Old Time Radio|Old Time Radio|https://kea.cdnstream.com/1893_128|Vintage & Spooky
+WALM Old Time Radio|WALM Old Time Radio|https://icecast.walmradio.com:8443/otr|Vintage & Spooky
+Pumpkin FM 1940s|Pumpkin FM 1940s|https://cast2.asurahosting.com/proxy/1940sradio/stream|Vintage & Spooky
+Vintage Obscura|Vintage Obscura|https://radio.vintageobscura.net/stream|Vintage & Spooky
+Mechanical Music Radio|Mechanical Music Radio|https://global.citrus3.com:2020/stream/mechanicalmusicradio|Vintage & Spooky
+Psychedelicized|Psychedelicized|https://stream.psychedelicized.com/listen/psychedelicized/radio.mp3|Vintage & Spooky
+J-Club Bandstand|J-Club Bandstand|https://cast1.torontocast.com:2060/stream|Vintage & Spooky
+Majestic Jukebox|Majestic Jukebox|https://uk3.internet-radio.com/proxy/majesticjukebox/live|Vintage & Spooky
+Beatles Radio|Beatles Radio|https://stream.zeno.fm/e4auhdgm6cquv|Vintage & Spooky
+Ultimate Oldies|Ultimate Oldies|https://puma.streemlion.com:1785/stream|Vintage & Spooky
+Van Morrison Radio|Van Morrison Radio|https://streaming.exclusive.radio/er/vanmorrison/icecast.audio|Vintage & Spooky
+Wayback Radio Top 40|Wayback Radio Top 40|https://s5.citrus3.com:8244/stream|Vintage & Spooky
+SMRN 60s and 70s|SMRN 60s and 70s|https://cast1.sql2.smrn.com/5001|Vintage & Spooky
+History Radio|History Radio|https://stream.radiojar.com/6bmecgg3wd5tv|Vintage & Spooky
+Audiobook Radio|Audiobook Radio|https://audiobookradio.out.airtime.pro/audiobookradio_a|Vintage & Spooky
+0R Lo-Fi|0R Lo-Fi|https://0nlineradio.radioho.st/0r-lo-fi|Lofi
+Box Lofi|Box Lofi|https://play.streamafrica.net/lofiradio|Lofi
+CLIAMP Lofi|CLIAMP Lofi|https://radio.cliamp.stream/lofi/stream|Lofi
+Epic Jazzhop|Epic Jazzhop|https://stream.epic-lounge.com/jazzhop-lounge|Lofi
+FluxFM Chillhop|FluxFM Chillhop|https://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/|Lofi
+Hotmix Lo-Fi|Hotmix Lo-Fi|https://streaming.hotmixradio.com/hotmix-lofi-en-mp3|Lofi
+Hunter.FM Lo-Fi|Hunter.FM Lo-Fi|https://live.hunter.fm/lofi_normal|Lofi
+I Love Chillhop|I Love Chillhop|https://ilm.stream12.radiohost.de/ilm_ilovechillhop_mp3-192|Lofi
+ISEKOI Chill Zone|ISEKOI Chill Zone|https://public.isekoi-radio.com/listen/chill/radio.mp3|Lofi
+Kalizo Lo-Fi|Kalizo Lo-Fi|https://streams.dez.ovh/listen/chillofi/radio.mp3|Lofi
+laut.fm Lofi|laut.fm Lofi|https://stream.laut.fm/lofi|Lofi
+LITT Live Lofi|LITT Live Lofi|https://das-sa39.cdnstream1.com/5582_128|Lofi
+Music Radio Lo-Fi|Music Radio Lo-Fi|https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3|Lofi
+NIA Lo-Fi|NIA Lo-Fi|https://radio.nia.nc/radio/8020/lofi-hq-stream.aac|Lofi
+NTS Low Key|NTS Low Key|https://stream-mixtape-geo.ntslive.net/mixtape2|Lofi
+RadioTEDU Lo-Fi|RadioTEDU Lo-Fi|https://stream.radiotedu.com/lofi|Lofi
+Record Lo-Fi|Record Lo-Fi|https://radiorecord.hostingradio.ru/lofi96.aacp|Lofi
+Relax Lo-Fi|Relax Lo-Fi|https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac|Lofi
+REYFM Lofi|REYFM Lofi|https://listen.reyfm.de/lofi_320kbps.mp3|Lofi
+~ Soma Chillits Radio|~ Soma Chillits Radio|https://ice2.somafm.com/chillits-256-mp3|Lofi
+0N K-Pop|0N K-Pop|https://0n-kpop.radionetz.de/0n-kpop.mp3|K-Pop
+100FM K-Pop|100FM K-Pop|https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio|K-Pop
+City K-Pop|City K-Pop|https://play.global.audio/citykpophi.aac|K-Pop
+Conexion Girl Groups|Conexion Girl Groups|https://stream.laut.fm/conexiongirlsgroups|K-Pop
+Conexion K-Pop|Conexion K-Pop|https://stream.laut.fm/conexionkpop|K-Pop
+Hit FM K-Pop Hits|Hit FM K-Pop Hits|https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac|K-Pop
+Hotmix K-Pop|Hotmix K-Pop|https://streaming.hotmixradio.com/hotmix-k-pop-en-mp3|K-Pop
+I Love K-Pop|I Love K-Pop|https://ilm.stream12.radiohost.de/ilm-ilovekpop_mp3-192|K-Pop
+Juka K-Pop|Juka K-Pop|https://juka-kpop.stream.laut.fm/juka-kpop|K-Pop
+K-Pop 24|K-Pop 24|https://lux.radio.tvstitch.com/k-pop-sd|K-Pop
+K-Pop Hits|K-Pop Hits|https://kpophits.stream.laut.fm/kpophits|K-Pop
+Kpop Radio HU|Kpop Radio HU|https://s5.radio.co/s078df1838/listen|K-Pop
+Listen.moe K-Pop|Listen.moe K-Pop|https://listen.moe/kpop/fallback|K-Pop
+Only Hits K-Pop|Only Hits K-Pop|https://kpop.onlyhit.us/play|K-Pop
+Radio Saranghae|Radio Saranghae|https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3|K-Pop
+RauteMusik K-Pop|RauteMusik K-Pop|https://streams.rautemusik.fm/k-pop/mp3-192|K-Pop
+REYFM K-Pop|REYFM K-Pop|https://listen.reyfm.de/kpop_320kbps.mp3|K-Pop
+SBS PopAsia|SBS PopAsia|https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web|K-Pop
+Gotanno FM|Gotanno FM|https://radio.gotanno.love/;|J-Pop
+J-Pop Sakura|J-Pop Sakura|https://quincy.torontocast.com:2070/stream.mp3|J-Pop
+Japan Hits|Japan Hits|https://quincy.torontocast.com:2020/stream.mp3|J-Pop
+Japanradio.de|Japanradio.de|https://stream.japanradio.de/live|J-Pop
+Kawaii Music|Kawaii Music|https://kawaii-music.stream.laut.fm/kawaii-music|J-Pop
+Listen.moe J-Pop|Listen.moe J-Pop|https://listen.moe/fallback|J-Pop
+Listen.moe J-Pop Ogg|Listen.moe J-Pop Ogg|https://listen.moe/stream|J-Pop
+Only Hits Japan|Only Hits Japan|https://j.onlyhit.us/play|J-Pop
+Sound Up Station|Sound Up Station|https://stream2.rcast.net/70945|J-Pop
+Anime FM|Anime FM|https://animefm.stream.laut.fm/animefm|Anime & Vocaloid
+Anime Nexus|Anime Nexus|https://cast.animenexusla.com/radio/8000/animenexus|Anime & Vocaloid
+AnimeNfo Radio|AnimeNfo Radio|https://stream.zenolive.com/xwa8ckz7mzzuv|Anime & Vocaloid
+NTS Otaku|NTS Otaku|https://stream-mixtape-geo.ntslive.net/mixtape36|Anime & Vocaloid
+Otaku World|Otaku World|https://otaku-world.stream.laut.fm/otaku-world|Anime & Vocaloid
+Phate Radio|Phate Radio|https://phate.io/listen|Anime & Vocaloid
+R/a/dio|R/a/dio|https://relay0.r-a-d.io/main.mp3|Anime & Vocaloid
+Radio Animu|Radio Animu|https://stream.animu.moe/192|Anime & Vocaloid
+Radio Onimai|Radio Onimai|https://radio.onimai.eu/stream.mp3|Anime & Vocaloid
+Stereo Anime|Stereo Anime|https://radio.stereoanime.com/listen/stereoanime/128|Anime & Vocaloid
+Vocaloid Radio|Vocaloid Radio|https://vocaloid.radioca.st/stream|Anime & Vocaloid
+Wave Anime Radio|Wave Anime Radio|https://channel_1.waveani.fun/stream|Anime & Vocaloid
+Cool 93 Bangkok|Cool 93 Bangkok|https://coolism-web.cdn.byteark.com/;stream/1|Asian Pop
+HITZ Malaysia|HITZ Malaysia|https://stream.rcs.revma.com/488kt4sbv4uvv|Asian Pop
+Hum FM|Hum FM|https://server.mediacast4u.stream/8002/stream|Asian Pop
+Kiss92 Singapore|Kiss92 Singapore|https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC|Asian Pop
+Love Radio Manila|Love Radio Manila|https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3|Asian Pop
+Prambors FM|Prambors FM|https://stream.rcs.revma.com/h77wwp48kxcwv|Asian Pop
+Radio Udaan Bollywood|Radio Udaan Bollywood|https://stream.radioudaan.com/listen/radio_udaan/radio.mp3|Asian Pop
+REDfm Mandarin|REDfm Mandarin|https://22273.live.streamtheworld.com/RED_FMAAC.aac|Asian Pop
+Retro Bollywood 90s|Retro Bollywood 90s|https://stream-143.zeno.fm/fdgs82xkzhhvv|Asian Pop
+181 The Mix|181 The Mix|https://listen.181fm.com/181-themix_128k.mp3|Pop & Variety
+Antenne Bayern|Antenne Bayern|https://stream.antenne.de/antenne/stream/mp3|Pop & Variety
+Capital UK|Capital UK|https://media-ice.musicradio.com/CapitalMP3|Pop & Variety
+FIP Pop|FIP Pop|https://icecast.radiofrance.fr/fippop-midfi.mp3|Pop & Variety
+Heart UK|Heart UK|https://media-ice.musicradio.com/HeartUKMP3|Pop & Variety
+Hit Radio FFH|Hit Radio FFH|https://mp3.ffh.de/radioffh/hqlivestream.mp3|Pop & Variety
+Hitradio Oe3|Hitradio Oe3|https://orf-live.ors-shoutcast.at/oe3-q2a|Pop & Variety
+Hotmix Hits|Hotmix Hits|https://streaming.hotmixradio.com/hotmix-hits-en-mp3|Pop & Variety
+NRJ Hits|NRJ Hits|https://streaming.nrjaudio.fm/ou7xugf3s5gi|Pop & Variety
+Radio 538|Radio 538|https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3|Pop & Variety
+Radio Paradise Main|Radio Paradise Main|https://stream.radioparadise.com/mp3-128|Pop & Variety
+Radio Swiss Pop|Radio Swiss Pop|https://stream.srg-ssr.ch/m/rsp/mp3_128|Pop & Variety
+RTL 102.5 Best|RTL 102.5 Best|https://streamingv2.shoutcast.com/rtl-1025-best|Pop & Variety
+Smooth UK|Smooth UK|https://media-ice.musicradio.com/SmoothUKMP3|Pop & Variety
+~ Soma PopTron|~ Soma PopTron|https://ice2.somafm.com/poptron-128-mp3|Pop & Variety
+0R Coffee Lounge|0R Coffee Lounge|https://0nlineradio.radioho.st/lounge-coffee-bar-lounge|Chill & Ambient
+0R Hotel Lounge|0R Hotel Lounge|https://0nlineradio.radioho.st/lounge-hotel-lounge|Chill & Ambient
+0R Piano Jazz Lounge|0R Piano Jazz Lounge|https://0nlineradio.radioho.st/lounge-piano-jazz-bar|Chill & Ambient
+0R Spa Lounge|0R Spa Lounge|https://0nlineradio.radioho.st/lounge-spa-lounge|Chill & Ambient
+Airport Lounge|Airport Lounge|https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3|Chill & Ambient
+Antenne Bayern Coffee|Antenne Bayern Coffee|https://mp3channels.webradio.de/coffee|Chill & Ambient
+Epic Ibiza Chillout|Epic Ibiza Chillout|https://stream.epic-lounge.com/ibiza-chillout-lounge|Chill & Ambient
+FluxFM Elec Chillout|FluxFM Elec Chillout|https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=10|Chill & Ambient
+Ibiza Sonica|Ibiza Sonica|https://ibizasonica.streaming-pro.com:8000/ibizasonica|Chill & Ambient
+Radio Paradise Mellow|Radio Paradise Mellow|https://stream.radioparadise.com/mellow-128|Chill & Ambient
+RadiOzora Chill|RadiOzora Chill|https://chill.out.airtime.pro/chill_a|Chill & Ambient
+Record Chill-Out|Record Chill-Out|https://radiorecord.hostingradio.ru/chil96.aacp|Chill & Ambient
+Reggae Chill Cafe|Reggae Chill Cafe|https://maggie.torontocast.com:2020/stream/reggaechillcafe|Chill & Ambient
+Smooth Chill|Smooth Chill|https://media-ssl.musicradio.com/SmoothChill|Chill & Ambient
+TripHop Radio|TripHop Radio|https://streaming.coolmusicradio.com/listen/cool_music/radio.mp3|Chill & Ambient
+ChillTraxx|ChillTraxx|https://streamssleu.chilltrax.com/stream|Chill & Ambient
+CodeRadio|CodeRadio|https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3|Chill & Ambient
+Nordic Lodge|Nordic Lodge|https://radio.streemlion.com:1160/stream|Chill & Ambient
+Tracksaudio Chill Lounge|Tracksaudio Chill Lounge|https://radiospromo.com/listen/tracksaudio.com_-_chill_out_lounge_music/radio.mp3|Chill & Ambient
+~ Soma Beat Blender|~ Soma Beat Blender|https://ice2.somafm.com/beatblender-128-mp3|Chill & Ambient
+~ Soma Fluid|~ Soma Fluid|https://ice2.somafm.com/fluid-128-mp3|Chill & Ambient
+~ Soma Groove Salad|~ Soma Groove Salad|https://ice2.somafm.com/groovesalad-256-mp3|Chill & Ambient
+~ Soma GS Classic|~ Soma GS Classic|https://ice2.somafm.com/gsclassic-128-mp3|Chill & Ambient
+~ Soma Illinois Street|~ Soma Illinois Street|https://ice2.somafm.com/illstreet-128-mp3|Chill & Ambient
+~ Soma Lush|~ Soma Lush|https://ice2.somafm.com/lush-128-mp3|Chill & Ambient
+~ Soma Mission Control|~ Soma Mission Control|https://ice2.somafm.com/missioncontrol-128-mp3|Chill & Ambient
+~ Soma n5MD|~ Soma n5MD|https://ice2.somafm.com/n5md-128-mp3|Chill & Ambient
+~ Soma Secret Agent|~ Soma Secret Agent|https://ice2.somafm.com/secretagent-128-mp3|Chill & Ambient
+0R Music For Sleep|0R Music For Sleep|https://0nlineradio.radioho.st/classical-classical-music-for-sleep|Witchy & Meditation
+Epic Background|Epic Background|https://stream.epic-classical.com/classical-background-music|Witchy & Meditation
+Epic Classical Chill|Epic Classical Chill|https://stream.epic-classical.com/classical-chillout|Witchy & Meditation
+Epic Nature Sounds|Epic Nature Sounds|https://stream.epic-lounge.com/nature-sounds|Witchy & Meditation
+Epic Piano|Epic Piano|https://stream.epic-classical.com/classical-piano|Witchy & Meditation
+Epic Sleep Meditation|Epic Sleep Meditation|https://stream.epic-lounge.com/sleep-meditation|Witchy & Meditation
+FluxFM Traumerei|FluxFM Traumerei|https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10|Witchy & Meditation
+FluxFM Yoga Sounds|FluxFM Yoga Sounds|https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1|Witchy & Meditation
+Radio Nature|Radio Nature|https://stream.zeno.fm/3ac97ysh6f0uv.aac|Witchy & Meditation
+~ Soma Dark Zone|~ Soma Dark Zone|https://ice2.somafm.com/darkzone-256-mp3|Witchy & Meditation
+~ Soma Deep Space One|~ Soma Deep Space One|https://ice2.somafm.com/deepspaceone-128-mp3|Witchy & Meditation
+~ Soma Drone Zone|~ Soma Drone Zone|https://ice2.somafm.com/dronezone-256-mp3|Witchy & Meditation
+~ Soma Synphaera|~ Soma Synphaera|https://ice2.somafm.com/synphaera-256-mp3|Witchy & Meditation
+Chillsynth FM|Chillsynth FM|https://stream.nightride.fm/chillsynth.mp3|Synthwave & Retro
+Darksynth FM|Darksynth FM|https://stream.nightride.fm/darksynth.mp3|Synthwave & Retro
+Datawave FM|Datawave FM|https://stream.nightride.fm/datawave.mp3|Synthwave & Retro
+Horrorsynth FM|Horrorsynth FM|https://stream.nightride.fm/horrorsynth.mp3|Synthwave & Retro
+Nightride FM|Nightride FM|https://stream.nightride.fm/nightride.mp3|Synthwave & Retro
+Nightwave Plaza|Nightwave Plaza|https://radio.plaza.one/mp3|Synthwave & Retro
+Record Synthwave|Record Synthwave|https://radiorecord.hostingradio.ru/synth96.aacp|Synthwave & Retro
+Spacesynth FM|Spacesynth FM|https://stream.nightride.fm/spacesynth.mp3|Synthwave & Retro
+Yumi Co Future Funk|Yumi Co Future Funk|https://yumicoradio.net:8443/stream|Synthwave & Retro
+Synthetic FM|Synthetic FM|https://mediaserv38.live-streams.nl:18040/live|Synthwave & Retro
+Synthetic FM Italo|Synthetic FM Italo|https://mediaserv38.live-streams.nl:18030/stream|Synthwave & Retro
+Radio ItaloPower|Radio ItaloPower|https://stream.deevaradio.net:10443/italopower|Synthwave & Retro
+Poolsuite FM|Poolsuite FM|https://s5.radio.co/sc9cb59935/listen|Synthwave & Retro
+~ Soma Space Station|~ Soma Space Station|https://ice2.somafm.com/spacestation-320-mp3|Synthwave & Retro

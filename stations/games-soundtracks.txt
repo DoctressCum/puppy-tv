@@ -1,0 +1,19 @@
+Hotmix Gaming|Hotmix Gaming|https://streaming.hotmixradio.com/hotmix-gaming-en-mp3
+Rainwave All|Rainwave All|https://relay.rainwave.cc/all.mp3
+Rainwave Chill|Rainwave Chill|https://relay.rainwave.cc/chill.mp3
+Rainwave Chiptune|Rainwave Chiptune|https://relay.rainwave.cc/chiptune.mp3
+Rainwave Covers|Rainwave Covers|https://relay.rainwave.cc/covers.mp3
+Rainwave Game|Rainwave Game|https://relay.rainwave.cc/game.mp3
+Rainwave OC ReMix|Rainwave OC ReMix|https://relay.rainwave.cc/ocremix.mp3
+Arcade Radio|Arcade Radio|https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2
+Cinemix Movie Music|Cinemix Movie Music|https://kathy.torontocast.com:1825/stream
+Classic FM Gaming|Classic FM Gaming|https://icecast.thisisdax.com/ClassicFM-M-Gaming
+Commodexplorer|Commodexplorer|https://manager8.streamradio.fr:2295/stream
+CVGM|CVGM|https://slacker.cvgm.net/cvgm192
+Ericade Tracker Radio|Ericade Tracker Radio|https://radio.ericade.net/sc/stream/1/
+GTA Radio|GTA Radio|https://stream.laut.fm/gta-classics
+Kaaosradio Chip|Kaaosradio Chip|https://kaaosradio.fi:8001/chip
+No Life Radio|No Life Radio|https://listen.nolife-radio.com/stream
+RPGamers Radio|RPGamers Radio|https://listen.rpgamers.net/rpgn
+Shmup Radio|Shmup Radio|https://stream.shmupradio.com/320
+Radio Rivendell|Radio Rivendell|https://play.radiorivendell.com/radio/8000/radio.mp3

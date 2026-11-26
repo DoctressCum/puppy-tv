@@ -1,0 +1,13 @@
+0R Music For Sleep|0R Music For Sleep|https://0nlineradio.radioho.st/classical-classical-music-for-sleep
+Epic Background|Epic Background|https://stream.epic-classical.com/classical-background-music
+Epic Classical Chill|Epic Classical Chill|https://stream.epic-classical.com/classical-chillout
+Epic Nature Sounds|Epic Nature Sounds|https://stream.epic-lounge.com/nature-sounds
+Epic Piano|Epic Piano|https://stream.epic-classical.com/classical-piano
+Epic Sleep Meditation|Epic Sleep Meditation|https://stream.epic-lounge.com/sleep-meditation
+FluxFM Traumerei|FluxFM Traumerei|https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10
+FluxFM Yoga Sounds|FluxFM Yoga Sounds|https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1
+Radio Nature|Radio Nature|https://stream.zeno.fm/3ac97ysh6f0uv.aac
+~ Soma Dark Zone|~ Soma Dark Zone|https://ice2.somafm.com/darkzone-256-mp3
+~ Soma Deep Space One|~ Soma Deep Space One|https://ice2.somafm.com/deepspaceone-128-mp3
+~ Soma Drone Zone|~ Soma Drone Zone|https://ice2.somafm.com/dronezone-256-mp3
+~ Soma Synphaera|~ Soma Synphaera|https://ice2.somafm.com/synphaera-256-mp3
