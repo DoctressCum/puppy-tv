@@ -65,9 +65,9 @@
   var BEVEL = "inset -1px -1px #0a0a0a,inset 1px 1px #fff,inset -2px -2px #808080,inset 2px 2px #dfdfdf";
   var THEME_CSS = [
     "#sltv{--tbg:#ffd6e7;--tfg:#5a2340;--tln:#5a2340;--msg:rgba(90,35,64,.9);--mfg:#fff;--font:" + F_COMIC + ";font-family:var(--font)}",
-    "#ptv-tap span{background:var(--tbg);color:var(--tfg);border:3px solid var(--tln);box-shadow:5px 5px 0 var(--tln);font-size:40px;padding:18px 34px;font-family:var(--font)}",
-    "#ptv-badge{position:absolute;left:18px;top:14px;display:none;background:var(--tbg);color:var(--tfg);border:2px solid var(--tln);font-size:26px;padding:4px 14px;font-family:var(--font)}",
-    "#ptv-msg{position:absolute;left:0;right:0;bottom:0;display:none;background:var(--msg);color:var(--mfg);font-size:24px;padding:10px 16px;font-family:var(--font)}",
+    "#ptv-tap span{background:var(--tbg);color:var(--tfg);border:3px solid var(--tln);box-shadow:5px 5px 0 var(--tln);font-size:calc(40px*var(--k,1));padding:calc(18px*var(--k,1)) calc(34px*var(--k,1));font-family:var(--font)}",
+    "#ptv-badge{position:absolute;left:calc(18px*var(--k,1));top:calc(14px*var(--k,1));display:none;background:var(--tbg);color:var(--tfg);border:2px solid var(--tln);font-size:calc(26px*var(--k,1));padding:calc(4px*var(--k,1)) calc(14px*var(--k,1));font-family:var(--font)}",
+    "#ptv-msg{position:absolute;left:0;right:0;bottom:0;display:none;background:var(--msg);color:var(--mfg);font-size:calc(24px*var(--k,1));padding:calc(10px*var(--k,1)) calc(16px*var(--k,1));font-family:var(--font)}",
     "#ptv-idle{position:absolute;inset:0;overflow:hidden;background:#000;display:block}",
     "#ptv-box{position:absolute;left:0;top:0;width:1024px;height:576px;transform-origin:0 0;overflow:hidden}",
     "#ptv-canvas,#ptv-fx,#ptv-layer{position:absolute;left:0;top:0;width:1024px;height:576px}",
@@ -141,7 +141,7 @@
     ".t-minimal{--tbg:#151515;--tfg:#e8e8e8;--tln:#444;--msg:rgba(0,0,0,.88);--font:" + F_MIN + "}",
     ".t-minimal #ptv-tap span,.t-minimal #ptv-badge{box-shadow:none;border-width:1px;border-radius:10px}",
     ".ptv-min{position:absolute;left:0;right:0;top:160px;color:#e8e8e8;font-family:" + F_MIN + "}",
-    ".ptv-mclock{font-size:168px;font-weight:200;line-height:1;letter-spacing:-2px}",
+    ".ptv-mclock{font-size:150px;white-space:nowrap;font-weight:200;line-height:1;letter-spacing:-2px}",
     ".ptv-mdate{font-size:24px;color:#8a8a8a;margin-top:14px}",
     ".t-minimal .ptv-foot{color:#555}",
     // radio card
@@ -362,32 +362,32 @@
   function inSpan(today, h) { var n = daysBetween(h.date, today); return n >= h.span[0] && n <= h.span[1]; }
 
   var SEGMENTS = {   // between two sabbats
-    samhain: { title: "the dark half", sub: "late autumn \u00B7 candles, quilts & warm tea", look: "darkhalf" },
-    yule: { title: "deep winter", sub: "rest, dream & keep the hearth warm", look: "winter" },
-    imbolc: { title: "the thaw", sub: "late winter \u00B7 seeds are waiting", look: "thaw" },
-    ostara: { title: "spring", sub: "everything is waking up", look: "spring" },
-    beltane: { title: "early summer", sub: "green & growing", look: "earlysummer" },
-    litha: { title: "high summer", sub: "long golden days", look: "summer" },
-    lammas: { title: "harvest season", sub: "late summer \u00B7 gathering in", look: "harvest" },
-    mabon: { title: "autumn", sub: "apples, woodsmoke & falling leaves", look: "autumn" }
+    samhain: { title: "late autumn", sub: "", look: "darkhalf" },
+    yule: { title: "winter", sub: "", look: "winter" },
+    imbolc: { title: "late winter", sub: "", look: "thaw" },
+    ostara: { title: "spring", sub: "", look: "spring" },
+    beltane: { title: "early summer", sub: "", look: "earlysummer" },
+    litha: { title: "summer", sub: "", look: "summer" },
+    lammas: { title: "late summer", sub: "", look: "harvest" },
+    mabon: { title: "autumn", sub: "", look: "autumn" }
   };
-  var SCENES = {   // title, small line above, line below, look
-    newyear: ["happy new year", "new year", "new beginnings \u2726 may the year be gentle", "newyear"],
-    seollal: ["\uC0C8\uD574 \uBCF5 \uB9CE\uC774 \uBC1B\uC73C\uC138\uC694", "seollal \u00B7 korean lunar new year", "happy new year \u2661 lots of luck", "seollal"],
-    valentine: ["happy valentine's day", "valentine's day", "all my love \u2661", "valentine"],
-    imbolc: ["blessed imbolc", "wheel of the year \u00B7 sabbat", "brigid's fire \u00B7 first stirrings of spring", "imbolc"],
-    ostara: ["blessed ostara", "wheel of the year \u00B7 spring equinox", "light & dark in balance", "ostara"],
-    easter: ["happy easter", "easter \u00B7 spring", "spring blessings \u2661", "easter"],
-    beltane: ["blessed beltane", "wheel of the year \u00B7 may day", "fire & flowers", "beltane"],
-    litha: ["blessed litha", "wheel of the year \u00B7 summer solstice", "the longest day \u2600", "litha"],
-    july4: ["happy 4th of july", "independence day", "summer nights & fireflies", "july4"],
-    lammas: ["blessed lammas", "wheel of the year \u00B7 first harvest", "bread, grain & gratitude", "lammas"],
-    chuseok: ["\uC990\uAC70\uC6B4 \uCD94\uC11D", "chuseok \u00B7 korean harvest festival", "happy chuseok \u2661 full moon, full hearts", "chuseok"],
-    mabon: ["blessed mabon", "wheel of the year \u00B7 autumn equinox", "second harvest \u00B7 give thanks", "mabon"],
-    samhain: ["blessed samhain", "samhain \u00B7 halloween", "happy halloween \u2661 the veil is thin", "samhain"],
-    thanksgiving: ["happy thanksgiving", "thanksgiving \u00B7 harvest home", "harvest blessings \u2661 warm hearts & full tables", "thanksgiving"],
-    yule: ["blessed yule", "wheel of the year \u00B7 winter solstice", "the sun returns \u2600", "yule"],
-    christmas: ["merry christmas", "christmas \u00B7 yuletide", "cozy hearts & warm candles \u2661", "christmas"]
+  var SCENES = {   // title, (unused), (unused), look
+    newyear: ["happy new year", "", "", "newyear"],
+    seollal: ["\uC124\uB0A0", "", "", "seollal"],
+    valentine: ["happy valentine's day", "", "", "valentine"],
+    imbolc: ["imbolc", "", "", "imbolc"],
+    ostara: ["ostara", "", "", "ostara"],
+    easter: ["happy easter", "", "", "easter"],
+    beltane: ["beltane", "", "", "beltane"],
+    litha: ["litha", "", "", "litha"],
+    july4: ["happy 4th of july", "", "", "july4"],
+    lammas: ["lammas", "", "", "lammas"],
+    chuseok: ["\uCD94\uC11D", "", "", "chuseok"],
+    mabon: ["mabon", "", "", "mabon"],
+    samhain: ["samhain", "", "", "samhain"],
+    thanksgiving: ["happy thanksgiving", "", "", "thanksgiving"],
+    yule: ["happy yule", "", "", "yule"],
+    christmas: ["merry christmas", "", "", "christmas"]
   };
   function sceneFor(now) {
     var today = dayOnly(now), y = today.getFullYear(), i, h, hit = null;
@@ -792,13 +792,11 @@
     var sc = sceneFor(now), L = drawSeasons(sc);
     root.setAttribute("data-dark", L.ink ? "1" : "0");
     var card = el("div", { "class": "ptv-scard" }, layer);
-    el("div", { "class": "ptv-kicker", text: sc.kicker }, card);
     el("div", { "class": "ptv-title", text: sc.title }, card);
-    el("div", { "class": "ptv-sub", text: sc.sub }, card);
     clockEls.push(el("div", { "class": "ptv-sclock" }, card));
     dateEls.push(el("div", { "class": "ptv-sdate" }, card));
     if (sc.next) el("div", { "class": "ptv-next", text: sc.next }, card);
-    el("div", { "class": "ptv-foot", text: "\u2661 puppy tv \u00B7 nothing on yet" }, layer);
+    el("div", { "class": "ptv-foot", text: "\u2661 puppy tv" }, layer);
     particles(fx, L.fx, L.n); flameGlows(fx);
     lastScene = sc;
   }
@@ -859,7 +857,7 @@
     var top = el("div", { "class": "ptv-ntop" }, layer);
     clockEls.push(el("div", { "class": "ptv-nclock" }, top));
     dateEls.push(el("div", { "class": "ptv-ndate" }, top));
-    el("div", { "class": "ptv-foot", text: "\u2661 puppy tv \u00B7 " + sky.name + " \u00B7 nothing on yet" }, layer);
+    el("div", { "class": "ptv-foot", text: "\u2661 puppy tv" }, layer);
   }
 
   // ---------- retro tv ----------
@@ -896,7 +894,7 @@
     el("div", { "class": "w98-face", text: "(\u1422\u2022\u1D25\u2022\u1422)" }, body);
     var tx = el("div", { "class": "w98-text" }, body);
     el("div", { text: "puppy tv is on standby." }, tx);
-    el("div", { text: "nothing on yet \u2661 touch the tv to pick something." }, tx);
+    el("div", { text: "touch the tv to pick something." }, tx);
     clockEls.push(el("div", { "class": "w98-clock" }, tx));
     el("div", { "class": "w98 w98-ok", text: "OK" }, el("div", { "class": "w98-row" }, win));
     var task = el("div", { "class": "w98 w98-task" }, layer);
@@ -932,11 +930,25 @@
   var layer = el("div", { id: "ptv-layer" }, box);
   C = cv.getContext("2d");
   var clockEls = [], dateEls = [], curSig = "", curTheme = "", lastScene = null;
+  // fit the whole 1024x576 picture inside the screen (never crop), whatever size/shape the media face is.
+  // the empty bands (if the face isn't 16:9) get a soft blurred copy of the background.
   function fit() {
-    var w = window.innerWidth || 1024, h = window.innerHeight || 576, s = Math.max(w / W, h / H);
+    var w = document.documentElement.clientWidth || window.innerWidth || 1024, h = document.documentElement.clientHeight || window.innerHeight || 576;
+    var s = Math.min(w / W, h / H);
+    root.style.setProperty("--k", Math.max(0.45, s).toFixed(4));
     box.style.transform = "translate(" + ((w - W * s) / 2).toFixed(1) + "px," + ((h - H * s) / 2).toFixed(1) + "px) scale(" + s.toFixed(4) + ")";
   }
+  // fill the empty bands with the picture's own top and bottom edge colours, so they blend in
+  function edgeColor(y) {
+    var d = C.getImageData(0, y, W, 1).data, r = 0, g = 0, b = 0, n = 0, i;
+    for (i = 0; i < d.length; i += 16) { r += d[i]; g += d[i + 1]; b += d[i + 2]; n++; }
+    return "rgb(" + Math.round(r / n) + "," + Math.round(g / n) + "," + Math.round(b / n) + ")";
+  }
+  function paintBack() {
+    try { idle.style.background = "linear-gradient(" + edgeColor(1) + " 0%," + edgeColor(1) + " 30%," + edgeColor(H - 2) + " 70%," + edgeColor(H - 2) + " 100%)"; } catch (e) {}
+  }
   window.addEventListener("resize", fit); fit();
+  setTimeout(fit, 500); setTimeout(fit, 2000);
   function wantedTheme() { return themeName(Q.theme || (S && S.theme) || CFG.theme || "pink"); }
   function drawTheme(t, now) {
     layer.textContent = ""; fx.textContent = ""; clockEls = []; dateEls = []; flames = [];
@@ -960,13 +972,13 @@
     var bb = el("span", { "class": "w98-btns" }, bar);
     ["_", "\u00D7"].forEach(function (x) { el("span", { "class": "w98 w98-b", text: x }, bb); });
     var body = el("div", { "class": "prad-body" }, r);
-    el("div", { "class": "prad-kicker", text: "\u266A now playing on puppy radio \u266A" }, body);
+    el("div", { "class": "prad-kicker", text: "\u266A puppy radio" }, body);
     el("div", { "class": "prad-name", text: S.title || "a little radio station" }, body);
     if (S.genre) el("div", { "class": "prad-genre", text: S.genre }, body);
     var eq = el("div", { "class": "prad-eq" }, body);
     for (var i = 0; i < 9; i++) { var b = el("span", null, eq); b.style.animationDelay = "-" + (i * 0.37 % 1.3).toFixed(2) + "s"; b.style.animationDuration = (0.9 + (i * 0.23 % 0.7)).toFixed(2) + "s"; }
     clockEls.push(el("div", { "class": "prad-clock" }, body));
-    el("div", { "class": "prad-live", text: "\u25CF live \u00B7 everyone hears the same station" }, body);
+    el("div", { "class": "prad-live", text: "\u25CF live" }, body);
   }
   function tickIdle(force) {
     var t = wantedTheme();
@@ -974,7 +986,7 @@
     if (idle.style.display === "none" && !force) return;
     var now = viewNow();
     var sig = (S && S.mode === "radio" ? "radio:" + S.src + "|" : "") + t + "|" + (t === "nature" ? ymd(now) + "|" + Math.floor((now.getHours() * 60 + now.getMinutes()) / 5) : t === "seasons" ? ymd(now) : "");
-    if (sig !== curSig || force) { curSig = sig; drawTheme(t, now); }
+    if (sig !== curSig || force) { curSig = sig; drawTheme(t, now); paintBack(); fit(); }
     var ts = fmtTime(now), ds = fmtDate(now);
     clockEls.forEach(function (e) {
       if (!e._t) { e.textContent = ""; e._t = el("span", null, e); el("span", { "class": "ptv-slt", text: "SLT" }, e); }
